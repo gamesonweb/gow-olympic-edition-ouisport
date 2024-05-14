@@ -1,8 +1,10 @@
-NOM DU PROJET : OUISPORT
+# NOM DU PROJET : 
+OUISPORT
 
-Personnes impliquées : Amy Joseph, Gino Martelli, Alexandre Krausener
+# Personnes impliquées : 
+Amy Joseph, Gino Martelli, Alexandre Krausener
 
-Description du jeu : 
+# Description du jeu : 
   OUISPORT contient 4 mini-jeux de 1 à 4 joueurs. Chaque niveau contient une discipline qui est ou a été présente aux Jeux olympiques.
   
   Niveau 1 : La course de haies.
@@ -18,3 +20,6 @@ Description du jeu :
     Ce dernier niveau se joue en solo. Le but de ce niveau est de marquer un but en effectuant des passes rapides aux bons joueurs. 
 
   Dans OUISPORT, quatre joueurs peuvent s'affronter dans une compétition où les trois premiers niveaux servent d'étapes éliminatoires. 
+
+# Lien du jeu :
+https://ginosprod.github.io/OUISPORT/
