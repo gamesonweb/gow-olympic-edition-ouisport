@@ -1,9 +1,9 @@
 # OUISPORT 
 ## DÉFIEZ VOS AMIS AUX JEUX OLYMPIQUES !
 
-- #### [Jouer au jeu](https://ginosprod.github.io/OUISPORT/)
-- #### [Le code source](https://github.com/Ginosprod/OUISPORT)
-- #### [Vidéo de présentation](https://github.com/Ginosprod/OUISPORT)
+- ### [Jouer au jeu](https://ginosprod.github.io/OUISPORT/)
+- ### [Le code source](https://github.com/Ginosprod/OUISPORT)
+- ### [Vidéo de présentation](https://github.com/Ginosprod/OUISPORT)
 
 ## Personnes impliquées dans le projet : 
 - Amy Joseph
