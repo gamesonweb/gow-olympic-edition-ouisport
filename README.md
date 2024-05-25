@@ -38,13 +38,17 @@ Le thème du Games on Web 2024 est _Olympic Edition_.
 
 ### Pourquoi OUISPORT ?
 L'idée d'origine, _Rats in Paris_, était de faire un FPS (First Person Shooter) se déroulant à Paris juste avant les Jeux Olympiques. Le but de Rats in Paris aurait été de nettoyer la ville des rats avant l'arrivée des touristes et des athlètes.
+
 Finalement, après avoir discuté avec des membres de l'organisation du concours, nous avons décidé de créer **OUISPORT** afin de ne pas trop nous éloigner du thème demandé. Le nom de ce jeu nous est venu naturellement.
 
 ### Le jeu au cours du temps
 La première version du jeu naît au début du mois de mars 2024. Faite par Gino ([Présentation de l'équipe](https://github.com/gamesonweb/gow-olympic-edition-ouisport/blob/main/README.md#description-d%C3%A9taill%C3%A9-de-ouisport-)), cette version contenait seulement un menu avec 3 niveaux, une section _Informations_ et une section _Paramètres_. La section _Informations_ contenait des informations qui sont maintenant dans ce document README. La section _Paramètres_ et les niveaux 2 et 3 étaient vides tandis que le niveau 1 contenait seulement la pelouse du stade.
-Gino a continué à développer une deuxième version pendant 7 semaines. Elle contenait une première version du niveau 1, de la section _Paramètres_, du stade, du menu avec les boutons en cercles olympiques, et de l'écran de chargement. 
+
+Gino a continué à développer une deuxième version pendant 7 semaines. Elle contenait une première version du niveau 1, de la section _Paramètres_, du stade, du menu avec les boutons en cercles olympiques, et de l'écran de chargement.
+
 Durant les vacances de Pâques, Amy et Alexandre ont récupérés la dernière version pour développer le niveau 3, tandis que Gino a fini une première version du niveau 2 et de la foule.
 À la fin de ces vacances, ayant un mois supplémentaire pour développer le projet, nous avons décidés de crée un niveau 4 et d'enlever la section _Informations_. Jusqu'à fin mai, Alexandre s'est occupé de finir le niveau 4. Gino a fait une nouvelle version du niveau 3.
+
 Durant le moi de mai, Gino a rajouté la musique de fond, les effets sonores et le décompte des 3 premiers niveaux, les chronomètres sur le niveau 1 et 3, les caméras de décorations et les animations CSS (du menu et de l'écran de chargement). Il a également fait une nouvelle version de OUISPORT en parrallèle qui fonctionne sur GitHub Pages pour mettre le projet en ligne.
 
 
