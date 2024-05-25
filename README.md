@@ -41,24 +41,24 @@ L'idée d'origine, _Rats in Paris_, était de faire un FPS (First Person Shooter
 
 Finalement, après avoir discuté avec des membres de l'organisation du concours, nous avons décidé de créer **OUISPORT** afin de ne pas trop nous éloigner du thème demandé. Le nom de ce jeu nous est venu naturellement.
 
-### Le jeu au cours du temps
-La première version du jeu naît au début du mois de mars 2024. Faite par Gino ([Présentation de l'équipe](https://github.com/gamesonweb/gow-olympic-edition-ouisport/blob/main/README.md#pr%C3%A9sentation-de-l%C3%A9quipe)), cette version contenait seulement un menu avec 3 niveaux, une section _Informations_ et une section _Paramètres_. La section _Informations_ contenait des informations qui sont maintenant dans ce document README. La section _Paramètres_ et les niveaux 2 et 3 étaient vides tandis que le niveau 1 contenait seulement la pelouse du stade.
+### Les versions du jeu au cours du temps
+La première version du jeu a vu le jour au début du mois de mars 2024. Réalisée par Gino ([Présentation de l'équipe](https://github.com/gamesonweb/gow-olympic-edition-ouisport/blob/main/README.md#pr%C3%A9sentation-de-l%C3%A9quipe)), cette version contenait seulement un menu avec trois niveaux, une section  _Informations_ et une section _Paramètres_. La section _Informations_ contenait des informations qui se trouvent maintenant dans ce document README. La section _Paramètres_ et les niveaux 2 et 3 étaient vides, tandis que le niveau 1 contenait seulement la pelouse du stade.
 
-Gino a continué à développer une deuxième version pendant 7 semaines. Elle contenait une première version du niveau 1, de la section _Paramètres_, du stade, du menu avec les boutons en cercles olympiques, et de l'écran de chargement.
+Gino a continué à développer une deuxième version pendant sept semaines. Elle contenait une première version du niveau 1, des sections _Paramètres_ et _Informations_, du stade, du menu avec les boutons en cercles olympiques, et de l'écran de chargement.
 
-Durant les vacances de Pâques, Amy et Alexandre ont récupérés la dernière version pour développer le niveau 3, tandis que Gino a fini une première version du niveau 2 et de la foule.
-À la fin de ces vacances, ayant un mois supplémentaire pour développer le projet, nous avons décidés de crée un niveau 4 et d'enlever la section _Informations_. Jusqu'à fin mai, Alexandre s'est occupé de finir le niveau 4. Gino a fait une nouvelle version du niveau 3.
+Pendant les vacances de Pâques, Amy et Alexandre ont récupéré la dernière version pour commencer à développer le niveau 3, tandis que Gino a terminé une première version du niveau 2 et de la foule. À la fin de ces vacances, ayant un mois restant pour développer le projet, nous avons décidé de créer un niveau 4 en supprimant la section _Informations_.
 
-Durant le moi de mai, Gino a rajouté la musique de fond, les effets sonores et le décompte des 3 premiers niveaux, les chronomètres sur le niveau 1 et 3, les caméras de décorations et les animations CSS (du menu et de l'écran de chargement). Il a également fait une nouvelle version de OUISPORT en parrallèle qui fonctionne sur GitHub Pages pour mettre le projet en ligne.
+Durant le mois de mai, Alexandre s'est occupé de finir le niveau 4 sur une version à part. Gino a développé le niveau 3, créé un nouveau style CSS, une nouvelle version de la foule et une version de **OUISPORT** qui fonctionne sur GitHub Pages afin de mettre le projet en ligne. Il a également ajouté la musique de fond, les effets sonores, le décompte des trois premiers niveaux, les chronomètres sur les niveaux 1 et 3, les caméras décoratives et les animations CSS (du menu et de l'écran de chargement).
 
+Fin mai, la version final de OUISPORT est en ligne avec 
 
-### Problèmes rencontrées
-
+### Le choix des niveaux
+Le choix des disciplines pour chaque niveau s'est fait en fonction des mécaniques de jeu. Nous voulions éviter d'utiliser deux fois la même mécanique. Ainsi, il faut avoir du rythme pour le niveau 1, des réflexes pour le niveau 2, de la précision pour le niveau 3, et de la rapidité de décision pour le niveau 4.
 
 ## Présentation de l'équipe
 
 ### Qui sommes-nous ?
-Nous sommes 3 étudiants de l'école polytechnique d'ingénieurs de l'Université Côte d'Azur (Polytech Nice Sophia), en deuxième année du cycle préparatoire de l'école (Peip2).
+Nous sommes trois étudiants de Polytech Nice Sophia, actuellement en deuxième année du cycle préparatoire de l'école (Peip2). Nous avons décidé de participer à ce concours afin d'approfondir nos connaissances en programmation. Ce projet nous a permis de découvrir de nombreux outils et technologies, tels que Blender, Gimp, Mixamo, CGTrader, Davinci Resolve, mais surtout Babylon.js.
 
 ### Contacts
 - Amy Joseph :
