@@ -1,6 +1,9 @@
 # OUISPORT 
 ## DÉFIEZ VOS AMIS AUX JEUX OLYMPIQUES !
 
+### - [Jouer au jeu](https://ginosprod.github.io/OUISPORT/)
+### - [Le code source](https://github.com/Ginosprod/OUISPORT)
+### - [Vidéo de présentation](https://github.com/Ginosprod/OUISPORT)
 
 ## Personnes impliquées : 
 - Amy Joseph
@@ -22,7 +25,6 @@ Ce niveau se joue à 2 joueurs. Le but de ce niveau est de marquer le plus de po
     
 ### Niveau 4 : Le football.
 Ce dernier niveau se joue en solo. Le but de ce niveau est de marquer un but en effectuant des passes rapides aux bons joueurs. 
-   
 
-## Lien du jeu :
-https://ginosprod.github.io/OUISPORT/
+
+
