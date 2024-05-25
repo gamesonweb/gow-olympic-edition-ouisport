@@ -1,16 +1,16 @@
 # OUISPORT 
 ## DÉFIEZ VOS AMIS AUX JEUX OLYMPIQUES !
 
-### - [Jouer au jeu](https://ginosprod.github.io/OUISPORT/)
-### - [Le code source](https://github.com/Ginosprod/OUISPORT)
-### - [Vidéo de présentation](https://github.com/Ginosprod/OUISPORT)
+#### - [Jouer au jeu](https://ginosprod.github.io/OUISPORT/)
+#### - [Le code source](https://github.com/Ginosprod/OUISPORT)
+#### - [Vidéo de présentation](https://github.com/Ginosprod/OUISPORT)
 
-## Personnes impliquées : 
+## Personnes impliquées dans le projet : 
 - Amy Joseph
 - Gino Martelli
 - Alexandre Krausener
 
-## Description du jeu : 
+## Description de OUISPORT : 
   OUISPORT contient 4 mini-jeux de 1 à 4 joueurs chacun pour soi. Chaque niveau contient une discipline qui est ou a été présente aux jeux olympiques.
   Dans OUISPORT, quatre joueurs peuvent s'affronter dans une compétition où les trois premiers niveaux servent d'étapes éliminatoires.
   
