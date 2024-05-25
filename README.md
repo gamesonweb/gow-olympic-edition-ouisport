@@ -33,9 +33,13 @@ Ce dernier niveau se joue en solo. Le but de ce niveau est de marquer un but en 
 ## L'histoire du jeu :
 
 ### Games On Web 2024 :
-
+Sponsorisé par CGI, Games On Web est un concours de programmation lancé par l'IUT Informatique, Polytech Nice Sophia et l'EUR DS4H (MIAGE et Licence/Master informatique). Ce concours met les équipes participantes au défi de développer un jeu vidéo 3D fonctionnant sur un navigateur Web. Les projets reposent sur les technologies web (JavaScript/HTML/CSS) et utilisent la bibliothèque open source BabylonJS pour la 3D.
+Le thème ddu Games on Web 2024 est _Olympic Edition_.
 
 ### Pourquoi OUISPORT ?
+L'idée d'origine, _Rats in Paris_, était de faire un FPS (First Person Shooter) qui se passe dans Paris juste avant les jeux olympiques. Le but de _Rats in Paris_ aurait été de nettoyer la ville des rats avant l'arrivée des touristes et athlètes.
+
+Finalement, après avoir discuté avec des membres de l'organisation du concours, on a décidé de crée **OUISPORT** afin de ne pas trop s'éloigner du thème demandé. Le nom de ce jeu nous est venu naturellement.
 
 
 ### L'avancement du jeu :
