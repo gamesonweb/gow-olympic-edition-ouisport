@@ -21,6 +21,7 @@ Ce dernier niveau se joue en solo. Le but de ce niveau est de marquer un but en 
 > [!TIP]
 > Dans **OUISPORT**, quatre joueurs peuvent s'affronter dans un tournoi où les deux premiers niveaux servent d'étapes éliminatoires. Le niveau 3 correspond à la finale entre les deux derniers joueurs.
 
+
 ## Personnes impliquées dans le projet : 
 - Amy Joseph
 - Gino Martelli
@@ -28,12 +29,31 @@ Ce dernier niveau se joue en solo. Le but de ce niveau est de marquer un but en 
 > [!NOTE]
 > [Présentation de l'équipe](https://github.com/gamesonweb/gow-olympic-edition-ouisport/blob/main/README.md#description-d%C3%A9taill%C3%A9-de-ouisport-).
 
-## Présentation de l'équipe :
-### Qui sommes-nous ?
-Nous sommes 3 étudiants de l'école polytechnique d'ingénieurs d'Université Côte d'Azur (Polytech Nice Sophia), en deuxième année du cycle préparatoire de l'école (Peip2).
-### Pourquoi OUISPORT ?
 
 ## L'histoire du jeu :
+
+### Games On Web 2024 :
+
+
+### Pourquoi OUISPORT ?
+
+
+### L'avancement du jeu :
+
+
+## Présentation de l'équipe :
+
+### Qui sommes-nous ?
+Nous sommes 3 étudiants de l'école polytechnique d'ingénieurs d'Université Côte d'Azur (Polytech Nice Sophia), en deuxième année du cycle préparatoire de l'école (Peip2).
+
+### Contacts :
+- Amy Joseph :
+- Gino Martelli : gino.martelli-rakotonindrainy@etu.univ-cotedazur.fr
+- Alexandre Krausener :
+
+
+
+
 
 
 
