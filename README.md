@@ -27,7 +27,7 @@ Ce dernier niveau se joue en solo. Le but de ce niveau est de marquer un but en 
 - Gino Martelli
 - Alexandre Krausener
 > [!NOTE]
-> [Présentation de l'équipe](https://github.com/gamesonweb/gow-olympic-edition-ouisport/blob/main/README.md#description-d%C3%A9taill%C3%A9-de-ouisport-).
+> [Présentation de l'équipe](https://github.com/gamesonweb/gow-olympic-edition-ouisport/blob/main/README.md#pr%C3%A9sentation-de-l%C3%A9quipe).
 
 
 ## L'histoire du jeu
@@ -42,7 +42,7 @@ L'idée d'origine, _Rats in Paris_, était de faire un FPS (First Person Shooter
 Finalement, après avoir discuté avec des membres de l'organisation du concours, nous avons décidé de créer **OUISPORT** afin de ne pas trop nous éloigner du thème demandé. Le nom de ce jeu nous est venu naturellement.
 
 ### Le jeu au cours du temps
-La première version du jeu naît au début du mois de mars 2024. Faite par Gino ([Présentation de l'équipe](https://github.com/gamesonweb/gow-olympic-edition-ouisport/blob/main/README.md#description-d%C3%A9taill%C3%A9-de-ouisport-)), cette version contenait seulement un menu avec 3 niveaux, une section _Informations_ et une section _Paramètres_. La section _Informations_ contenait des informations qui sont maintenant dans ce document README. La section _Paramètres_ et les niveaux 2 et 3 étaient vides tandis que le niveau 1 contenait seulement la pelouse du stade.
+La première version du jeu naît au début du mois de mars 2024. Faite par Gino ([Présentation de l'équipe](https://github.com/gamesonweb/gow-olympic-edition-ouisport/blob/main/README.md#pr%C3%A9sentation-de-l%C3%A9quipe)), cette version contenait seulement un menu avec 3 niveaux, une section _Informations_ et une section _Paramètres_. La section _Informations_ contenait des informations qui sont maintenant dans ce document README. La section _Paramètres_ et les niveaux 2 et 3 étaient vides tandis que le niveau 1 contenait seulement la pelouse du stade.
 
 Gino a continué à développer une deuxième version pendant 7 semaines. Elle contenait une première version du niveau 1, de la section _Paramètres_, du stade, du menu avec les boutons en cercles olympiques, et de l'écran de chargement.
 
