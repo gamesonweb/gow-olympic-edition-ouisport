@@ -3,7 +3,7 @@
 
 - ### [Jouer au jeu](https://ginosprod.github.io/OUISPORT/)
 - ### [Code source](https://github.com/Ginosprod/OUISPORT)
-- ### [Vidéo de présentation](https://github.com/Ginosprod/OUISPORT)
+- ### [Vidéos de gameplay et de présentation](https://github.com/Ginosprod/OUISPORT)
 - ### [Documentation](https://github.com/gamesonweb/gow-olympic-edition-ouisport/blob/main/Documentation.md)
 
 ## Description de OUISPORT : 
