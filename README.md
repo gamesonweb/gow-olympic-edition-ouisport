@@ -6,10 +6,9 @@
 - ### [Documentation](https://github.com/gamesonweb/gow-olympic-edition-ouisport/blob/main/Documentation.md)
 
 ## Description de OUISPORT : 
-OUISPORT contient 4 mini-jeux de 1 à 4 joueurs chacun pour soi. Chaque niveau contient une discipline qui est ou a été présente aux jeux olympiques.
-Dans OUISPORT, quatre joueurs peuvent s'affronter dans une compétition où les trois premiers niveaux servent d'étapes éliminatoires.
+**OUISPORT** contient 4 mini-jeux de 1 à 4 joueurs chacun pour soi. Chaque niveau contient une discipline qui est ou a été présente aux jeux olympiques.
 > [!NOTE]
-> [Description détaillé du jeu](https://github.com/gamesonweb/gow-olympic-edition-ouisport/blob/main/README.md#description-d%C3%A9taill%C3%A9-de-ouisport-).
+> [Description détaillé du jeu](https://github.com/gamesonweb/gow-olympic-edition-ouisport/blob/main/Documentation.md#description-d%C3%A9taill%C3%A9e-du-jeu-).
 
 ### Niveau 1 : La course de haies.
 Ce premier niveau se joue à 4 joueurs. Le but de ce niveau est d'atteindre la ligne d'arrivée en faisant tomber le moins de haies possible : il faut sauter au bon moment.
@@ -20,14 +19,22 @@ Ce niveau se joue à 2 joueurs. Le but de ce niveau est de marquer le plus de po
 ### Niveau 4 : Le football.
 Ce dernier niveau se joue en solo. Le but de ce niveau est de marquer un but en effectuant des passes rapides aux bons joueurs. 
 > [!TIP]
-> Dans OUISPORT, quatre joueurs peuvent s'affronter dans un tournoi où les deux premiers niveaux servent d'étapes éliminatoires. Le niveau 3 correspond à la finale entre les deux derniers joueurs.
+> Dans **OUISPORT**, quatre joueurs peuvent s'affronter dans un tournoi où les deux premiers niveaux servent d'étapes éliminatoires. Le niveau 3 correspond à la finale entre les deux derniers joueurs.
 
 ## Personnes impliquées dans le projet : 
 - Amy Joseph
 - Gino Martelli
 - Alexandre Krausener
+> [!NOTE]
+> [Présentation de l'équipe](https://github.com/gamesonweb/gow-olympic-edition-ouisport/blob/main/README.md#description-d%C3%A9taill%C3%A9-de-ouisport-).
 
-## Description détaillé de OUISPORT :
+## Présentation de l'équipe :
+### Qui sommes-nous ?
+Nous sommes 3 étudiants de l'école polytechnique d'ingénieurs d'Université Côte d'Azur (Polytech Nice Sophia), en deuxième année du cycle préparatoire de l'école (Peip2).
+### Pourquoi OUISPORT ?
+
+## L'histoire du jeu :
+
 
 
 
