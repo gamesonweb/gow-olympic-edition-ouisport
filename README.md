@@ -5,10 +5,11 @@
 - ### [Vidéos de gameplay et de présentation](https://github.com/Ginosprod/OUISPORT)
 - ### [Documentation](https://github.com/gamesonweb/gow-olympic-edition-ouisport/blob/main/Documentation.md)
 
-
 ## Description de OUISPORT : 
-  OUISPORT contient 4 mini-jeux de 1 à 4 joueurs chacun pour soi. Chaque niveau contient une discipline qui est ou a été présente aux jeux olympiques.
-  Dans OUISPORT, quatre joueurs peuvent s'affronter dans une compétition où les trois premiers niveaux servent d'étapes éliminatoires.
+OUISPORT contient 4 mini-jeux de 1 à 4 joueurs chacun pour soi. Chaque niveau contient une discipline qui est ou a été présente aux jeux olympiques.
+Dans OUISPORT, quatre joueurs peuvent s'affronter dans une compétition où les trois premiers niveaux servent d'étapes éliminatoires.
+> > [!NOTE]
+> [Description détaillé du jeu]().
 ### Niveau 1 : La course de haies.
 Ce premier niveau se joue à 4 joueurs. Le but de ce niveau est d'atteindre la ligne d'arrivée en faisant tomber le moins de haies possible : il faut sauter au bon moment.
 ### Niveau 2 : Le lancer de javelot.
@@ -24,6 +25,8 @@ Ce dernier niveau se joue en solo. Le but de ce niveau est de marquer un but en 
 - Amy Joseph
 - Gino Martelli
 - Alexandre Krausener
+
+## Description détaillé de OUISPORT :
 
 
 
