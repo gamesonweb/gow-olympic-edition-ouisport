@@ -4,11 +4,7 @@
 - ### [Jouer au jeu](https://ginosprod.github.io/OUISPORT/)
 - ### [Le code source](https://github.com/Ginosprod/OUISPORT)
 - ### [Vidéo de présentation](https://github.com/Ginosprod/OUISPORT)
-
-## Personnes impliquées dans le projet : 
-- Amy Joseph
-- Gino Martelli
-- Alexandre Krausener
+- ### [Documentation](https://github.com/gamesonweb/gow-olympic-edition-ouisport/blob/main/Documentation.md)
 
 ## Description de OUISPORT : 
   OUISPORT contient 4 mini-jeux de 1 à 4 joueurs chacun pour soi. Chaque niveau contient une discipline qui est ou a été présente aux jeux olympiques.
@@ -25,6 +21,11 @@ Ce niveau se joue à 2 joueurs. Le but de ce niveau est de marquer le plus de po
     
 ### Niveau 4 : Le football.
 Ce dernier niveau se joue en solo. Le but de ce niveau est de marquer un but en effectuant des passes rapides aux bons joueurs. 
+
+## Personnes impliquées dans le projet : 
+- Amy Joseph
+- Gino Martelli
+- Alexandre Krausener
 
 
 
