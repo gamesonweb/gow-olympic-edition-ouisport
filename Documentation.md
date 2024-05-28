@@ -5,7 +5,8 @@
 ## Description détaillée du jeu :
 
 ### Menu 
-![image](https://github.com/gamesonweb/gow-olympic-edition-ouisport/assets/85039742/5defea56-b2cf-468a-8294-558c09b7be8b)
+![image](https://github.com/gamesonweb/gow-olympic-edition-ouisport/assets/85039742/030d5fca-e80f-43ce-9b4c-96d331a37c1a)
+
 
 
 ### Niveau 1
