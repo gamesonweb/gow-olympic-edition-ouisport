@@ -54,17 +54,15 @@ Durant la partie, le score est affiché en bas de l'écran, avec les touches ass
 Il faut lancer le javelot le plus loin possible chacun son tour.
 ![image](https://github.com/gamesonweb/gow-olympic-edition-ouisport/assets/85039742/783470df-f209-4f7e-9479-152aa708bc40)
 
-
 Appuyez rapidement sur les touches qui apparaissent à l'écran. Les touches possibles sont : **A T P W V N**
 ![image](https://github.com/gamesonweb/gow-olympic-edition-ouisport/assets/85039742/61426345-5b79-4f8e-bb3c-2aa86c124c53)
-
 
 Moins vous ratez de touches et plus vous appuyez rapidement, plus votre javelot ira loin.
 Le gagnant est celui qui aura lancé le javelot le plus loin.
 C'est chacun son tour en commencant par le joueur 1.
 
 Les scores sont affichés à la fin de la partie et entre chaque tour :
-![image](https://github.com/gamesonweb/gow-olympic-edition-ouisport/assets/85039742/c643d5cf-e7b1-49b9-b420-69715b77205c)
+![image](https://github.com/gamesonweb/gow-olympic-edition-ouisport/assets/85039742/b0f81e66-91d1-43d1-90a1-7151874259a8)
 
 > [!NOTE]
 > Le score maximum possible est 140. Essayez de battre le meilleur score de notre team : 133 !
