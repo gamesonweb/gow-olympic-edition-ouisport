@@ -4,18 +4,22 @@
 
 ### Menu 
 ![image](https://github.com/gamesonweb/gow-olympic-edition-ouisport/assets/85039742/030d5fca-e80f-43ce-9b4c-96d331a37c1a)
-Le menu comprend les cercles olympiques correspondant aux niveaux 1 à 4, ainsi qu'aux paramètres. En survolant un cercle de niveau avec la souris, on peut connaître le nombre de joueurs requis. Il suffit de cliquer sur un cercle pour accéder au niveau ou aux paramètres.
+Le menu comprend les cercles olympiques correspondant aux niveaux 1 à 4, ainsi qu'aux paramètres. En survolant un cercle de niveau avec la souris, on peut connaître le nombre de joueurs requis. Il suffit de cliquer sur un cercle pour accéder au niveau ou aux paramètres :
 ![image](https://github.com/gamesonweb/gow-olympic-edition-ouisport/assets/85039742/d1edc201-cf3b-459c-8eb3-74f2f8f6d18d)
 
 ### General
 Les règles sont affichées au début de chaque niveau et entre chaque tour. Appuyez sur la touche espace pour commencer ou continuer la partie.
-Un bouton pour retourner au menu est toujours présent en haut à gauche de l'écran.
+Un bouton pour retourner au menu est toujours présent en haut à gauche de l'écran :
 
 ![image](https://github.com/gamesonweb/gow-olympic-edition-ouisport/assets/85039742/f21293af-58fc-4dba-aacd-d57abcd382ca)
 > [!CAUTION]
 > Le jeu peut présenter des comportements étranges si vous le quittez alors qu'une partie est en cours.
 
 > [!TIP]
+> Dans **OUISPORT**, quatre joueurs peuvent s'affronter dans un tournoi où les deux premiers niveaux servent d'étapes éliminatoires. Le niveau 3 correspond à la finale entre les deux derniers joueurs.
+>
+> Si le nombre de joueurs requis pour jouer à un niveau n'est pas atteint, vous pouvez choisir vos propres règles et techniques pour jouer avec moins de joueurs ou en solo.
+> 
 > Si vous jouez sur un ordinateur portable et que le jeu n'est pas fluide, branchez-le sur secteur. Si le problème persiste ou si vous jouez sur un ordinateur fixe, réglez la qualité d'affichage.
 >
 > Pour ajuster la qualité d'affichage, vous pouvez utiliser le zoom de votre fenêtre de navigateur (CTRL + molette de la souris).
@@ -29,7 +33,11 @@ Pour sauter, appuyez sur la touche qui correspond à votre joueur :
 - Joueur 3 🟥 : P
 - Joueur 4 🟩 : A
 
-À la fin de la partie, les scores sont affichés. Le joueur le plus rapide voit son temps affiché, tandis que les autres joueurs voient le temps supplémentaire qu'ils ont mis par rapport au premier.
+Durant la partie, le score est affiché en bas de l'écran :
+![image](https://github.com/gamesonweb/gow-olympic-edition-ouisport/assets/85039742/3e64ea22-da06-4f50-9a22-a8e6e2751b2d)
+
+
+À la fin de la partie, les scores sont affichés. Le joueur le plus rapide voit son temps affiché, tandis que les autres joueurs voient le temps supplémentaire qu'ils ont mis par rapport au premier :
 ![image](https://github.com/gamesonweb/gow-olympic-edition-ouisport/assets/85039742/3d1cb95f-2608-46f8-9cc1-9e3b6d60a95e)
 
 
