@@ -10,12 +10,14 @@ Le menu comprend les cercles olympiques correspondant aux niveaux 1 à 4, ainsi 
 ### General
 Les règles sont affichées au début de chaque niveau et entre chaque tour. Appuyez sur la touche espace pour commencer ou continuer la partie.
 Un bouton pour retourner au menu est toujours présent en haut à gauche de l'écran.
+
 ![image](https://github.com/gamesonweb/gow-olympic-edition-ouisport/assets/85039742/f21293af-58fc-4dba-aacd-d57abcd382ca)
 > [!CAUTION]
 > Le jeu peut présenter des comportements étranges si vous le quittez alors qu'une partie est en cours.
 
 > [!TIP]
 > Si vous jouez sur un ordinateur portable et que le jeu n'est pas fluide, branchez-le sur secteur. Si le problème persiste ou si vous jouez sur un ordinateur fixe, réglez la qualité d'affichage.
+>
 > Pour ajuster la qualité d'affichage, vous pouvez utiliser le zoom de votre fenêtre de navigateur (CTRL + molette de la souris).
 
 
@@ -23,7 +25,6 @@ Un bouton pour retourner au menu est toujours présent en haut à gauche de l'é
 
 ### Niveau 1
 **Comment jouer :**
-![image](https://github.com/gamesonweb/gow-olympic-edition-ouisport/assets/85039742/3cdd4b41-ebcc-4ea9-bd38-942b2fd9536a)
 
 
 ### Niveau 2
