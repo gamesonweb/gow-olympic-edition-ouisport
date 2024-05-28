@@ -11,6 +11,15 @@
 > [!NOTE]
 > [Description détaillé du jeu](https://github.com/gamesonweb/gow-olympic-edition-ouisport/blob/main/Documentation.md#description-d%C3%A9taill%C3%A9e-du-jeu-).
 
+> [!TIP]
+> Dans **OUISPORT**, quatre joueurs peuvent s'affronter dans un tournoi où les deux premiers niveaux servent d'étapes éliminatoires. Le niveau 3 correspond à la finale entre les deux derniers joueurs.
+>
+> Si le nombre de joueurs requis pour jouer à un niveau n'est pas atteint, vous pouvez choisir vos propres règles et techniques pour jouer avec moins de joueurs ou en solo.
+> 
+> Si vous jouez sur un ordinateur portable et que le jeu n'est pas fluide, branchez-le sur secteur. Si le problème persiste ou si vous jouez sur un ordinateur fixe, réglez la qualité d'affichage.
+> 
+> Pour ajuster la qualité d'affichage, vous pouvez utiliser le zoom de votre fenêtre de navigateur (CTRL + molette de la souris).
+
 ### Niveau 1 : La course de haies.
 Ce premier niveau se joue à 4 joueurs. Le but de ce niveau est d'atteindre la ligne d'arrivée en faisant tomber le moins de haies possible : il faut sauter au bon moment.
 ![Capture d’écran (6)](https://github.com/gamesonweb/gow-olympic-edition-ouisport/assets/85039742/c6eda7ac-fbf4-4af2-9388-7aeb801f2d05)
@@ -25,15 +34,6 @@ Ce niveau se joue à 2 joueurs. Le but de ce niveau est de marquer le plus de po
 
 ### Niveau 4 : Le football.
 Ce dernier niveau se joue en solo. Le but de ce niveau est de marquer un but en effectuant des passes rapides aux bons joueurs. 
-
-> [!TIP]
-> Dans **OUISPORT**, quatre joueurs peuvent s'affronter dans un tournoi où les deux premiers niveaux servent d'étapes éliminatoires. Le niveau 3 correspond à la finale entre les deux derniers joueurs.
->
-> Si le nombre de joueurs requis pour jouer à un niveau n'est pas atteint, vous pouvez choisir vos propres règles et techniques pour jouer avec moins de joueurs ou en solo.
-> 
-> Si vous jouez sur un ordinateur portable et que le jeu n'est pas fluide, branchez-le sur secteur. Si le problème persiste ou si vous jouez sur un ordinateur fixe, réglez la qualité d'affichage.
-> 
-> Pour ajuster la qualité d'affichage, vous pouvez utiliser le zoom de votre fenêtre de navigateur (CTRL + molette de la souris).
 
 
 ## Personnes impliquées dans le projet
