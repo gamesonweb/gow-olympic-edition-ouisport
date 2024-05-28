@@ -30,7 +30,8 @@ Il y a un bouton pour retourner au menu à la fin de chaque niveau :
 
 ### Niveau 1
 Il faut atteindre la ligne d'arrivée en premier en touchant aucune des 20 haies.
-####################""image du jeu
+![Capture d’écran (6)](https://github.com/gamesonweb/gow-olympic-edition-ouisport/assets/85039742/dd50ae7d-603a-4c1c-b13b-d13771b1ec08)
+
 
 Le gagnant est celui qui fera tomber le moins de haies possible. S'il y a égalité, le gagnant est celui qui est arrivé en premier.
 Pour sauter, appuyez sur la touche qui correspond à votre joueur :
