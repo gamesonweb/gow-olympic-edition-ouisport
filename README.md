@@ -16,6 +16,9 @@ Ce premier niveau se joue à 4 joueurs. Le but de ce niveau est d'atteindre la l
 
 ### Niveau 2 : Le lancer de javelot.
 Ce niveau se joue à 3 joueurs. Le but de ce niveau est de lancer le javelot le plus loin possible : il faut appuyer rapidement sur les touches qui s'affichent à l'écran.
+![image](https://github.com/gamesonweb/gow-olympic-edition-ouisport/assets/85039742/f1d0e8e5-597a-4b5a-bc96-00eb700d2cea)
+
+
 ### Niveau 3 : Le tir à l'arc.
 Ce niveau se joue à 2 joueurs. Le but de ce niveau est de marquer le plus de points en touchant la cible que l'autre joueur peut déplacer.
 ### Niveau 4 : Le football.
