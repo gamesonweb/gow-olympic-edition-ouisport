@@ -46,7 +46,7 @@ Durant la partie, le score est affiché en bas de l'écran, avec les touches ass
 ![image](https://github.com/gamesonweb/gow-olympic-edition-ouisport/assets/85039742/3d1cb95f-2608-46f8-9cc1-9e3b6d60a95e)
 
 > [!NOTE]
-> Le score maximum possible à 1 joueur est 4 fois 20. Essayez de battre le meilleur score de notre team : 16 18 16 18 !
+> Le score maximum possible à 1 joueur est 4 fois 20. Essayez de battre le meilleur score de notre team : 16 19 16 19 !
 
 ### Niveau 2
 Il faut lancer le javelot le plus loin possible chacun son tour.
