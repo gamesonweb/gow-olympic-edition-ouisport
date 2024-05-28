@@ -12,6 +12,8 @@
 
 ### Niveau 1 : La course de haies.
 Ce premier niveau se joue à 4 joueurs. Le but de ce niveau est d'atteindre la ligne d'arrivée en faisant tomber le moins de haies possible : il faut sauter au bon moment.
+![Capture d’écran (6)](https://github.com/gamesonweb/gow-olympic-edition-ouisport/assets/85039742/c6eda7ac-fbf4-4af2-9388-7aeb801f2d05)
+
 ### Niveau 2 : Le lancer de javelot.
 Ce niveau se joue à 3 joueurs. Le but de ce niveau est de lancer le javelot le plus loin possible : il faut appuyer rapidement sur les touches qui s'affichent à l'écran.
 ### Niveau 3 : Le tir à l'arc.
