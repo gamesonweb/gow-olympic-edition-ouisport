@@ -69,7 +69,7 @@ Les scores sont affichés à la fin de la partie et entre chaque tour :
 
 ### Niveau 3
 Il y a deux joueurs : un tireur et un opérateur. Le tireur doit gagner des points en touchant la cible et l'opérateur doit déplacer la cible pour éviter les flèches du tireur.
-####################""image du jeu
+![image](https://github.com/gamesonweb/gow-olympic-edition-ouisport/assets/85039742/d83bd048-0dfa-479a-be78-ada7316bc5df)
 
 Lorsque le tireur a utilisé ses 5 flèches, les rôles s'inversent. Le tireur gagne de 1 à 5 points s'il touche la cible. Le gagnant est celui qui a le plus de points à la fin des deux manches. S'il y a égalité, le gagnant est celui qui a tiré ses 5 flèches le plus rapidement.
 
@@ -77,16 +77,19 @@ Le tireur utilise la souris pour viser et le clic de la souris pour tirer.
 L'opérateur utilise **Z**, **Q**, **S** et **D** pour déplacer la cible.
 
 Durant la partie, les scores ainsi que la zone de la cible touchée par le dernier tir en vert sont affichés sur l'écran à droite :
-####################""image du jeu écran
+![image](https://github.com/gamesonweb/gow-olympic-edition-ouisport/assets/85039742/00eae047-5e25-4a3f-80af-084694cfe977)
 
-L'opérateur est le joueur à gauche de l'écran, qui appuie sur les boutons représentant Z, Q, S et D. Le joueur 1 est en blanc et le joueur 2 est en noir :
-####################""image du jeu
+L'opérateur est le joueur à gauche de l'écran, qui appuie sur les boutons représentant Z, Q, S et D. Le joueur 1 est en noir et le joueur 2 est en blanc :
+![image](https://github.com/gamesonweb/gow-olympic-edition-ouisport/assets/85039742/363d6bc7-f53b-4ee5-8269-6187f0739f51)
 
 Le gagnant et son score sont affichés à la fin de la partie :
-####################""image du jeu écran
+![image](https://github.com/gamesonweb/gow-olympic-edition-ouisport/assets/85039742/71c91ac1-9a23-416b-b7e4-6228176f4dcd)
 
 S'il y a égalité, celui qui à été le plus rapide l'emporte :
 ![image](https://github.com/gamesonweb/gow-olympic-edition-ouisport/assets/85039742/f7a38ae6-bd67-423b-ae0e-a4020e0fdf55)
+
+> [!CAUTION]
+> Si votre jeu fonctionne lentement (fps faible), la cible risque de ne pas détecter la flèche.
 
 > [!NOTE]
 > Le score maximum possible à 1 joueur est 2 fois 25. Essayez de battre le meilleur temps de notre team (en faisant 2 fois 25) : 1,78s et 2,26s ! (Vous jouez seulement le tireur).
