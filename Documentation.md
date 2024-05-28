@@ -91,7 +91,9 @@ S'il y a égalité, celui qui à été le plus rapide l'emporte :
 nivo 4 blabla
 
 ### Paramètres
+![image](https://github.com/gamesonweb/gow-olympic-edition-ouisport/assets/85039742/842b308f-72b7-4447-88b9-1031970b1c88)
 
+Vous pouvez ajustez le volume et la quantité de spectateur dans le stade.
 
 > [!CAUTION]
 > La foule utilise les ressources de votre appareil pour s'afficher sans baisser la fluidité. Ajustez la foule en fonction des performances de votre appareil.
@@ -99,7 +101,6 @@ nivo 4 blabla
 ### Écran de chargement
 L'écran de chargement contient une animation avec les cercles olympiques. Le temps de chargement varie selon le niveau et la qualité de votre connexion.
 ![image](https://github.com/gamesonweb/gow-olympic-edition-ouisport/assets/85039742/854a4a49-d348-48a0-9b54-d831ae2505fd)
-
 
 ## Sources :
 modele 3D :blabla
