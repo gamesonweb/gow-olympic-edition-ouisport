@@ -46,7 +46,7 @@ Durant la partie, le score est affiché en bas de l'écran, avec les touches ass
 ![image](https://github.com/gamesonweb/gow-olympic-edition-ouisport/assets/85039742/3d1cb95f-2608-46f8-9cc1-9e3b6d60a95e)
 
 > [!NOTE]
-> Le score maximum possible à 1 joueur est 4 fois 20. Essayez de battre le meilleur score de notre team : 16 19 16 19 !
+> Le score maximum possible à 1 joueur est 4 fois 20. Essayez de battre le meilleur score de notre team : 16 19 16 19 ! (Vous jouez les 4 joueurs à la fois).
 
 ### Niveau 2
 Il faut lancer le javelot le plus loin possible chacun son tour.
@@ -64,7 +64,29 @@ Les scores sont affichés à la fin de la partie et entre chaque tour :
 > Le score maximum possible est 140. Essayez de battre le meilleur score de notre team : 133 !
 
 ### Niveau 3
-nivo 3 blabla
+Il y a deux joueurs : un tireur et un opérateur. Le tireur doit gagner des points en touchant la cible et l'opérateur doit déplacer la cible pour éviter les flèches du tireur.
+####################""image du jeu
+
+Lorsque le tireur a utilisé ses 5 flèches, les rôles s'inversent. Le tireur gagne de 1 à 5 points s'il touche la cible. Le gagnant est celui qui a le plus de points à la fin des deux manches. S'il y a égalité, le gagnant est celui qui a tiré ses 5 flèches le plus rapidement.
+
+Le tireur utilise la souris pour viser et le clic de la souris pour tirer.
+L'opérateur utilise **Z**, **Q**, **S** et **D** pour déplacer la cible.
+
+Durant la partie, les scores ainsi que la zone de la cible touchée par le dernier tir en vert sont affichés sur l'écran à droite :
+####################""image du jeu
+
+L'opérateur est le joueur à gauche de l'écran qui appuie sur les boutons qui representnte Z, Q, S et D. Le joueur 1 est en blanc et le joueur 2 est en noir :
+####################""image du jeu
+
+
+Le gagnant et son score sont affichés à la fin de la partie :
+####################""image du jeu écran
+
+S'il y a égalité, celui qui à été le plus rapide l'emporte :
+![image](https://github.com/gamesonweb/gow-olympic-edition-ouisport/assets/85039742/f7a38ae6-bd67-423b-ae0e-a4020e0fdf55)
+
+> [!NOTE]
+> Le score maximum possible à 1 joueur est 2 fois 25. Essayez de battre le meilleur temps de notre team (en faisant 2 fois 25) : 2,24s et 2,21s ! (Vous jouez seulement le tireur).
 
 ### Niveau 4
 nivo 4 blabla
