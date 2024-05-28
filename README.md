@@ -21,6 +21,8 @@ Ce dernier niveau se joue en solo. Le but de ce niveau est de marquer un but en 
 > [!TIP]
 > Dans **OUISPORT**, quatre joueurs peuvent s'affronter dans un tournoi où les deux premiers niveaux servent d'étapes éliminatoires. Le niveau 3 correspond à la finale entre les deux derniers joueurs.
 >
+> Si le nombre de joueurs requis pour jouer à un niveau n'est pas atteint, vous pouvez choisir vos propres règles et techniques pour jouer avec moins de joueurs ou en solo.
+> 
 > Si vous jouez sur un ordinateur portable et que le jeu n'est pas fluide, branchez-le sur secteur. Si le problème persiste ou si vous jouez sur un ordinateur fixe, réglez la qualité d'affichage.
 > 
 > Pour ajuster la qualité d'affichage, vous pouvez utiliser le zoom de votre fenêtre de navigateur (CTRL + molette de la souris).
