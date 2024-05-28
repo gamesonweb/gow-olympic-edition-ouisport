@@ -45,6 +45,9 @@ Durant la partie, le score est affiché en bas de l'écran, avec les touches ass
 À la fin de la partie, les scores sont affichés. Le joueur le plus rapide voit son temps affiché, tandis que les autres joueurs voient le temps supplémentaire qu'ils ont mis par rapport au premier :
 ![image](https://github.com/gamesonweb/gow-olympic-edition-ouisport/assets/85039742/3d1cb95f-2608-46f8-9cc1-9e3b6d60a95e)
 
+> [!NOTE]
+> Le score maximum possible à un joueur est 4 fois 20/20. Essayez de battre le meilleur score de notre team : 19/20 17/20 18/20 18/20 !
+
 ### Niveau 2
 Il faut lancer le javelot le plus loin possible chacun son tour.
 ####################""image du jeu
@@ -53,11 +56,12 @@ Appuyez rapidement sur les touches qui apparaissent à l'écran. Les touches pos
 Moins vous ratez de touches et plus vous appuyez rapidement, plus votre javelot ira loin.
 Le gagnant est celui qui aura lancé le javelot le plus loin.
 C'est chacun son tour en commencant par le joueur 1.
-Le score maximum possible est 140. Essayez de battre le meilleur score de notre team : 133 !
 
 Les scores sont affichés à la fin de la partie et entre chaque tour :
 ![image](https://github.com/gamesonweb/gow-olympic-edition-ouisport/assets/85039742/c643d5cf-e7b1-49b9-b420-69715b77205c)
 
+> [!NOTE]
+> Le score maximum possible est 140. Essayez de battre le meilleur score de notre team : 133 !
 
 ### Niveau 3
 nivo 3 blabla
