@@ -103,6 +103,17 @@ L'écran de chargement contient une animation avec les cercles olympiques. Le te
 ![image](https://github.com/gamesonweb/gow-olympic-edition-ouisport/assets/85039742/854a4a49-d348-48a0-9b54-d831ae2505fd)
 
 ## Sources :
-modele 3D :blabla
-sound : blabla
-image : blabla
+### Modèles 3D :
+- [Mixamo](https://www.mixamo.com/) (Les joueurs)
+- [CGTrader](https://www.cgtrader.com/) (Les décorations et les spectateurs)
+
+Nous avons fait les haies du niveau 1 sur Blender.
+
+### Animation des modèles 3D :
+- [Mixamo](https://www.mixamo.com/)
+
+### Sons et musiques :
+- [Youtube](https://www.youtube.com/) 
+- [La musique du jeu](https://youtu.be/EBmBRq9ViyU?si=SyOblTXCTYDjPfGj) 
+
+
