@@ -20,19 +20,17 @@ Un bouton pour retourner au menu est toujours présent en haut à gauche de l'é
 >
 > Pour ajuster la qualité d'affichage, vous pouvez utiliser le zoom de votre fenêtre de navigateur (CTRL + molette de la souris).
 
-
-
-
 ### Niveau 1
-**Comment jouer :**
 Il faut atteindre la ligne d'arrivée en premier en touchant aucune des 20 haies.
 Le gagnant est celui qui fera tomber le moins de haies possible. S'il y a égalité, le gagnant est celui qui est arrivé en premier.
 Pour sauter, appuyez sur la touche qui correspond à votre joueur :
-- $\colorbox{blue}{{\color{black}{Joueur\ 1\ :\ N}}}$
-- Joueur 2 noir: W
-- Joueur 3 rouge: P
-- Joueur 4 vert: A
+- Joueur 1 🟦 : N 
+- Joueur 2 ⬛ : W
+- Joueur 3 🟥 : P
+- Joueur 4 🟩 : A
 
+À la fin de la partie, les scores sont affichés. Le joueur le plus rapide voit son temps affiché, tandis que les autres joueurs voient le temps supplémentaire qu'ils ont mis par rapport au premier.
+![image](https://github.com/gamesonweb/gow-olympic-edition-ouisport/assets/85039742/3d1cb95f-2608-46f8-9cc1-9e3b6d60a95e)
 
 
 ### Niveau 2
