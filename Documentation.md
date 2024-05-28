@@ -25,6 +25,14 @@ Un bouton pour retourner au menu est toujours présent en haut à gauche de l'é
 
 ### Niveau 1
 **Comment jouer :**
+Il faut atteindre la ligne d'arrivée en premier en touchant aucune des 20 haies.
+Le gagnant est celui qui fera tomber le moins de haies possible. S'il y a égalité, le gagnant est celui qui est arrivé en premier.
+Pour sauter, appuyez sur la touche qui correspond à votre joueur :
+- $\colorbox{blue}{{\color{black}{Joueur\ 1\ :\ N}}}$
+- Joueur 2 noir: W
+- Joueur 3 rouge: P
+- Joueur 4 vert: A
+
 
 
 ### Niveau 2
