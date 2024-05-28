@@ -8,10 +8,14 @@ Le menu comprend les cercles olympiques correspondant aux niveaux 1 à 4, ainsi 
 ![image](https://github.com/gamesonweb/gow-olympic-edition-ouisport/assets/85039742/d1edc201-cf3b-459c-8eb3-74f2f8f6d18d)
 
 ### General
-Les règles sont affichées au début de chaque niveau et entre chaque tour. Appuyez sur la touche espace pour commencer ou continuer la partie.
+Les règles sont affichées au début de chaque niveau et entre chaque tour. Appuyez sur la touche espace pour commencer ou continuer la partie. Il y a un décompte avant chaque début de niveau ou de tour.
 Un bouton pour retourner au menu est toujours présent en haut à gauche de l'écran :
 
 ![image](https://github.com/gamesonweb/gow-olympic-edition-ouisport/assets/85039742/f21293af-58fc-4dba-aacd-d57abcd382ca)
+
+Il y a un bouton pour retourner au menu à la fin de chaque niveau :
+![image](https://github.com/gamesonweb/gow-olympic-edition-ouisport/assets/85039742/1e6fa5c7-59c3-46bc-ac4b-d848310355e8)
+
 > [!CAUTION]
 > Le jeu peut présenter des comportements étranges si vous le quittez alors qu'une partie est en cours.
 
@@ -26,23 +30,31 @@ Un bouton pour retourner au menu est toujours présent en haut à gauche de l'é
 
 ### Niveau 1
 Il faut atteindre la ligne d'arrivée en premier en touchant aucune des 20 haies.
+####################""image du jeu
 Le gagnant est celui qui fera tomber le moins de haies possible. S'il y a égalité, le gagnant est celui qui est arrivé en premier.
 Pour sauter, appuyez sur la touche qui correspond à votre joueur :
-- Joueur 1 🟦 : N 
-- Joueur 2 ⬛ : W
-- Joueur 3 🟥 : P
-- Joueur 4 🟩 : A
+- Joueur 1 🟦 : **N** 
+- Joueur 2 ⬛ : **W**
+- Joueur 3 🟥 : **P**
+- Joueur 4 🟩 : **A**
 
-Durant la partie, le score est affiché en bas de l'écran :
+Durant la partie, le score est affiché en bas de l'écran, avec les touches assignées à chaque joueur :
 ![image](https://github.com/gamesonweb/gow-olympic-edition-ouisport/assets/85039742/3e64ea22-da06-4f50-9a22-a8e6e2751b2d)
-
 
 À la fin de la partie, les scores sont affichés. Le joueur le plus rapide voit son temps affiché, tandis que les autres joueurs voient le temps supplémentaire qu'ils ont mis par rapport au premier :
 ![image](https://github.com/gamesonweb/gow-olympic-edition-ouisport/assets/85039742/3d1cb95f-2608-46f8-9cc1-9e3b6d60a95e)
 
-
 ### Niveau 2
-nivo 2 blabla
+Il faut lancer le javelot le plus loin possible chacun son tour.
+####################""image du jeu
+Appuyez rapidement sur les touches qui apparaissent à l'écran. Les touches possibles sont : **A T P W V N**
+Moins vous ratez de touches et plus vous appuyez rapidement, plus votre javelot ira loin.
+Le gagnant est celui qui aura lancé le javelot le plus loin.
+C'est chacun son tour en commencant par le joueur 1.
+
+Les scores sont affichés à la fin de la partie et entre chaque tour :
+![image](https://github.com/gamesonweb/gow-olympic-edition-ouisport/assets/85039742/c643d5cf-e7b1-49b9-b420-69715b77205c)
+
 
 ### Niveau 3
 nivo 3 blabla
@@ -57,8 +69,6 @@ nivo 4 blabla
 ### Écran de chargement
 L'écran de chargement contient une animation avec les cercles olympiques. Le temps de chargement varie selon le niveau et la qualité de votre connexion.
 ![image](https://github.com/gamesonweb/gow-olympic-edition-ouisport/assets/85039742/854a4a49-d348-48a0-9b54-d831ae2505fd)
-
-
 
 
 ## Sources :
