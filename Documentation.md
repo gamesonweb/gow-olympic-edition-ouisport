@@ -43,7 +43,8 @@ Durant la partie, le score est affiché en bas de l'écran, avec les touches ass
 ![image](https://github.com/gamesonweb/gow-olympic-edition-ouisport/assets/85039742/3e64ea22-da06-4f50-9a22-a8e6e2751b2d)
 
 À la fin de la partie, les scores sont affichés. Le joueur le plus rapide voit son temps affiché, tandis que les autres joueurs voient le temps supplémentaire qu'ils ont mis par rapport au premier :
-![image](https://github.com/gamesonweb/gow-olympic-edition-ouisport/assets/85039742/3d1cb95f-2608-46f8-9cc1-9e3b6d60a95e)
+![image](https://github.com/gamesonweb/gow-olympic-edition-ouisport/assets/85039742/b70050b0-1c6f-4a3f-adea-4b38d63e25c0)
+
 
 > [!NOTE]
 > Le score maximum possible à 1 joueur est 4 fois 20. Essayez de battre le meilleur score de notre team : 16 19 16 19 ! (Vous jouez les 4 joueurs à la fois).
