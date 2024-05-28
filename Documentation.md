@@ -80,6 +80,7 @@ Durant la partie, les scores ainsi que la zone de la cible touchée par le derni
 ![image](https://github.com/gamesonweb/gow-olympic-edition-ouisport/assets/85039742/00eae047-5e25-4a3f-80af-084694cfe977)
 
 L'opérateur est le joueur à gauche de l'écran, qui appuie sur les boutons représentant Z, Q, S et D. Le joueur 1 est en noir et le joueur 2 est en blanc :
+
 ![image](https://github.com/gamesonweb/gow-olympic-edition-ouisport/assets/85039742/363d6bc7-f53b-4ee5-8269-6187f0739f51)
 
 Le gagnant et son score sont affichés à la fin de la partie :
@@ -90,6 +91,11 @@ S'il y a égalité, celui qui à été le plus rapide l'emporte :
 
 > [!CAUTION]
 > Si votre jeu fonctionne lentement (fps faible), la cible risque de ne pas détecter la flèche.
+
+> [!TIP] 
+> Si vous jouez sur un ordinateur portable et que le jeu n'est pas fluide (fps faible), branchez-le sur secteur. Si le problème persiste ou si vous jouez sur un ordinateur fixe, réglez la qualité d'affichage.
+>
+> Pour ajuster la qualité d'affichage, vous pouvez utiliser le zoom de votre fenêtre de navigateur (CTRL + molette de la souris).
 
 > [!NOTE]
 > Le score maximum possible à 1 joueur est 2 fois 25. Essayez de battre le meilleur temps de notre team (en faisant 2 fois 25) : 1,78s et 2,26s ! (Vous jouez seulement le tireur).
