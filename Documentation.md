@@ -46,6 +46,13 @@ Durant la partie, le score est affiché en bas de l'écran, avec les touches ass
 À la fin de la partie, les scores sont affichés. Le joueur le plus rapide voit son temps affiché, tandis que les autres joueurs voient le temps supplémentaire qu'ils ont mis par rapport au premier :
 ![image](https://github.com/gamesonweb/gow-olympic-edition-ouisport/assets/85039742/b70050b0-1c6f-4a3f-adea-4b38d63e25c0)
 
+> [!CAUTION]
+> Si votre jeu fonctionne lentement (fps faible), la cible risque de ne pas détecter la flèche.
+
+> [!TIP] 
+> Si vous jouez sur un ordinateur portable et que le jeu n'est pas fluide (fps faible), branchez-le sur secteur. Si le problème persiste ou si vous jouez sur un ordinateur fixe, réglez la qualité d'affichage.
+>
+> Pour ajuster la qualité d'affichage, vous pouvez utiliser le zoom de votre fenêtre de navigateur (CTRL + molette de la souris).
 
 > [!NOTE]
 > Le score maximum possible à 1 joueur est 4 fois 20. Essayez de battre le meilleur score de notre team : 16 19 16 19 ! (Vous jouez les 4 joueurs à la fois).
