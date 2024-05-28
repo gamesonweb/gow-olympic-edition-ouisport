@@ -1,5 +1,22 @@
 # OUISPORT : DOCUMENTATION
 ## DÉFIEZ VOS AMIS AUX JEUX OLYMPIQUES !
+
+## **SOMMAIRE**
+- Description détaillée du jeu
+  - Menu
+  - General
+  - Niveau 1
+  - Niveau 2
+  - Niveau 3
+  - Niveau 4
+  - Paramètres
+  - Écran de chargement  
+- Sources
+  - Modèles 3D
+  - Animations des modèles
+  - Sons et musiques
+
+
 ## Description détaillée du jeu :
 
 ### Menu 
