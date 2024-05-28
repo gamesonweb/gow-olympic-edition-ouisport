@@ -2,19 +2,19 @@
 ## DÉFIEZ VOS AMIS AUX JEUX OLYMPIQUES !
 
 ## **SOMMAIRE**
-- Description détaillée du jeu
-  - Menu
-  - General
-  - Niveau 1
-  - Niveau 2
-  - Niveau 3
-  - Niveau 4
-  - Paramètres
-  - Écran de chargement  
-- Sources
-  - Modèles 3D
-  - Animations des modèles
-  - Sons et musiques
+- [Description détaillée du jeu](https://github.com/gamesonweb/gow-olympic-edition-ouisport/blob/main/Documentation.md#description-d%C3%A9taill%C3%A9e-du-jeu-)
+  - [Menu](https://github.com/gamesonweb/gow-olympic-edition-ouisport/blob/main/Documentation.md#menu)
+  - [General](https://github.com/gamesonweb/gow-olympic-edition-ouisport/blob/main/Documentation.md#general)
+  - [Niveau 1](https://github.com/gamesonweb/gow-olympic-edition-ouisport/blob/main/Documentation.md#niveau-1)
+  - [Niveau 2](https://github.com/gamesonweb/gow-olympic-edition-ouisport/blob/main/Documentation.md#niveau-2)
+  - [Niveau 3](https://github.com/gamesonweb/gow-olympic-edition-ouisport/blob/main/Documentation.md#niveau-3)
+  - [Niveau 4](https://github.com/gamesonweb/gow-olympic-edition-ouisport/blob/main/Documentation.md#niveau-4)
+  - [Paramètres](https://github.com/gamesonweb/gow-olympic-edition-ouisport/blob/main/Documentation.md#param%C3%A8tres)
+  - [Écran de chargement](https://github.com/gamesonweb/gow-olympic-edition-ouisport/blob/main/Documentation.md#%C3%A9cran-de-chargement)
+- [Sources](https://github.com/gamesonweb/gow-olympic-edition-ouisport/blob/main/Documentation.md#sources-)
+  - [Modèles 3D](https://github.com/gamesonweb/gow-olympic-edition-ouisport/blob/main/Documentation.md#mod%C3%A8les-3d-)
+  - [Animations des modèles 3D](https://github.com/gamesonweb/gow-olympic-edition-ouisport/blob/main/Documentation.md#animation-des-mod%C3%A8les-3d-)
+  - [Sons et musiques](https://github.com/gamesonweb/gow-olympic-edition-ouisport/blob/main/Documentation.md#sons-et-musiques-)
 
 
 ## Description détaillée du jeu :
