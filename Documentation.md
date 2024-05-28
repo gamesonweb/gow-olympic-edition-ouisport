@@ -73,11 +73,10 @@ Le tireur utilise la souris pour viser et le clic de la souris pour tirer.
 L'opérateur utilise **Z**, **Q**, **S** et **D** pour déplacer la cible.
 
 Durant la partie, les scores ainsi que la zone de la cible touchée par le dernier tir en vert sont affichés sur l'écran à droite :
-####################""image du jeu
+####################""image du jeu écran
 
-L'opérateur est le joueur à gauche de l'écran qui appuie sur les boutons qui representnte Z, Q, S et D. Le joueur 1 est en blanc et le joueur 2 est en noir :
+L'opérateur est le joueur à gauche de l'écran, qui appuie sur les boutons représentant Z, Q, S et D. Le joueur 1 est en blanc et le joueur 2 est en noir :
 ####################""image du jeu
-
 
 Le gagnant et son score sont affichés à la fin de la partie :
 ####################""image du jeu écran
@@ -86,12 +85,14 @@ S'il y a égalité, celui qui à été le plus rapide l'emporte :
 ![image](https://github.com/gamesonweb/gow-olympic-edition-ouisport/assets/85039742/f7a38ae6-bd67-423b-ae0e-a4020e0fdf55)
 
 > [!NOTE]
-> Le score maximum possible à 1 joueur est 2 fois 25. Essayez de battre le meilleur temps de notre team (en faisant 2 fois 25) : 2,24s et 2,21s ! (Vous jouez seulement le tireur).
+> Le score maximum possible à 1 joueur est 2 fois 25. Essayez de battre le meilleur temps de notre team (en faisant 2 fois 25) : 1,78s et 2,26s ! (Vous jouez seulement le tireur).
 
 ### Niveau 4
 nivo 4 blabla
 
 ### Paramètres
+
+
 > [!CAUTION]
 > La foule utilise les ressources de votre appareil pour s'afficher sans baisser la fluidité. Ajustez la foule en fonction des performances de votre appareil.
 
