@@ -83,7 +83,7 @@ Appuyez rapidement sur les touches qui apparaissent à l'écran. Les touches pos
 
 Moins vous ratez de touches et plus vous appuyez rapidement, plus votre javelot ira loin.
 Le gagnant est celui qui aura lancé le javelot le plus loin.
-C'est chacun son tour en commencant par le joueur 1.
+C'est chacun son tour en commençant par le joueur 1.
 
 Les scores sont affichés à la fin de la partie et entre chaque tour :
 ![image](https://github.com/gamesonweb/gow-olympic-edition-ouisport/assets/85039742/b0f81e66-91d1-43d1-90a1-7151874259a8)
