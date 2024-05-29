@@ -46,6 +46,8 @@ Il y a un bouton pour retourner au menu à la fin de chaque niveau :
 > Si vous jouez sur un ordinateur portable et que le jeu n'est pas fluide, branchez-le sur secteur. Si le problème persiste ou si vous jouez sur un ordinateur fixe, réglez la qualité d'affichage.
 >
 > Pour ajuster la qualité d'affichage, vous pouvez utiliser le zoom de votre fenêtre de navigateur (CTRL + molette de la souris).
+>
+> Appuyez sur Échap pour afficher le curseur de la souris.
 
 ### Niveau 1
 Il faut atteindre la ligne d'arrivée en touchant aucune des 20 haies.
