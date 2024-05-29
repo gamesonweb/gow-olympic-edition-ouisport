@@ -92,7 +92,7 @@ Les scores sont affichés à la fin de la partie et entre chaque tour :
 > Le score maximum possible est 140. Essayez de battre le meilleur score de notre team : 133 !
 
 ### Niveau 3
-Il y a deux joueurs : un tireur et un opérateur. Le tireur doit gagner des points en touchant la cible et l'opérateur doit déplacer la cible pour éviter les flèches du tireur.
+Il y a deux joueurs : un tireur et un opérateur. Le tireur gagne des points en touchant la cible et l'opérateur doit déplacer la cible pour éviter les flèches du tireur.
 ![image](https://github.com/gamesonweb/gow-olympic-edition-ouisport/assets/85039742/d83bd048-0dfa-479a-be78-ada7316bc5df)
 
 Lorsque le tireur a utilisé ses 5 flèches, les rôles s'inversent. Le tireur gagne de 1 à 5 points s'il touche la cible. Le gagnant est celui qui a le plus de points à la fin des deux manches. S'il y a égalité, le gagnant est celui qui a tiré ses 5 flèches le plus rapidement.
