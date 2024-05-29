@@ -38,6 +38,8 @@
 > Si vous jouez sur un ordinateur portable et que le jeu n'est pas fluide, branchez-le sur secteur. Si le problème persiste ou si vous jouez sur un ordinateur fixe, réglez la qualité d'affichage.
 > 
 > Pour ajuster la qualité d'affichage, vous pouvez utiliser le zoom de votre fenêtre de navigateur (CTRL + molette de la souris).
+>
+> Appuyez sur Échap pour afficher le curseur de la souris.
 
 ### Niveau 1 : La course de haies.
 Ce premier niveau se joue à 4 joueurs. Le but de ce niveau est d'atteindre la ligne d'arrivée en faisant tomber le moins de haies possible : il faut sauter au bon moment.
@@ -100,4 +102,5 @@ Nous sommes trois étudiants de Polytech Nice Sophia, actuellement en deuxième 
 
 ### Remerciements
 - Fatima Diarra
-- Anonyme 1
+- Léa Duval
+- Anonyme
