@@ -27,6 +27,9 @@
 > [!NOTE]
 > [Description détaillée du jeu](https://github.com/gamesonweb/gow-olympic-edition-ouisport/blob/main/Documentation.md#description-d%C3%A9taill%C3%A9e-du-jeu-).
 
+> [!CAUTION]
+> Le jeu ne fonctionne pas sur le navigateur Opera GX.
+
 > [!TIP]
 > Dans **OUISPORT**, quatre joueurs peuvent s'affronter dans un tournoi où les deux premiers niveaux servent d'étapes éliminatoires. Le niveau 3 correspond à la finale entre les deux derniers joueurs.
 >
@@ -94,3 +97,7 @@ Nous sommes trois étudiants de Polytech Nice Sophia, actuellement en deuxième 
 - Amy Joseph :
 - Gino Martelli : gino.martelli-rakotonindrainy@etu.univ-cotedazur.fr
 - Alexandre Krausener :
+
+### Remerciements
+- Fatima Diarra
+- Anonyme 1
