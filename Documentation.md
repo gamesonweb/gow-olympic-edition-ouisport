@@ -35,6 +35,8 @@ Il y a un bouton pour retourner au menu à la fin de chaque niveau :
 
 > [!CAUTION]
 > Le jeu peut présenter des comportements étranges si vous le quittez alors qu'une partie est en cours.
+>
+> Le jeu ne fonctionne pas sur le navigateur Opera GX.
 
 > [!TIP]
 > Dans **OUISPORT**, quatre joueurs peuvent s'affronter dans un tournoi où les deux premiers niveaux servent d'étapes éliminatoires. Le niveau 3 correspond à la finale entre les deux derniers joueurs.
