@@ -25,7 +25,7 @@
 **OUISPORT** contient 4 mini-jeux de 1 à 4 joueurs chacun pour soi. Chaque niveau contient une discipline qui est ou a été présente aux jeux olympiques.
 ![image](https://github.com/gamesonweb/gow-olympic-edition-ouisport/assets/85039742/030d5fca-e80f-43ce-9b4c-96d331a37c1a)
 > [!NOTE]
-> [Description détaillé du jeu](https://github.com/gamesonweb/gow-olympic-edition-ouisport/blob/main/Documentation.md#description-d%C3%A9taill%C3%A9e-du-jeu-).
+> [Description détaillée du jeu](https://github.com/gamesonweb/gow-olympic-edition-ouisport/blob/main/Documentation.md#description-d%C3%A9taill%C3%A9e-du-jeu-).
 
 > [!TIP]
 > Dans **OUISPORT**, quatre joueurs peuvent s'affronter dans un tournoi où les deux premiers niveaux servent d'étapes éliminatoires. Le niveau 3 correspond à la finale entre les deux derniers joueurs.
@@ -72,7 +72,7 @@ L'idée d'origine, _Rats in Paris_, était de faire un FPS (First Person Shooter
 Finalement, après avoir discuté avec des membres de l'organisation du concours, nous avons décidé de créer **OUISPORT** afin de ne pas trop nous éloigner du thème demandé. Le nom de ce jeu nous est venu naturellement.
 
 ### Les versions du jeu au cours du temps
-La première version du jeu a vu le jour au début du mois de mars 2024. Réalisée par Gino ([Présentation de l'équipe](https://github.com/gamesonweb/gow-olympic-edition-ouisport/blob/main/README.md#pr%C3%A9sentation-de-l%C3%A9quipe)), cette version contenait seulement un menu avec trois niveaux, une section  _Informations_ et une section _Paramètres_. La section _Informations_ contenait des informations qui se trouvent maintenant dans ce document README. La section _Paramètres_ et les niveaux 2 et 3 étaient vides, tandis que le niveau 1 contenait seulement la pelouse du stade.
+La première version du jeu a vu le jour au début du mois de mars 2024. Réalisée par Gino ([Présentation de l'équipe](https://github.com/gamesonweb/gow-olympic-edition-ouisport/blob/main/README.md#pr%C3%A9sentation-de-l%C3%A9quipe)), cette version contenait seulement un menu avec trois niveaux, une section  _Informations_ et une section _Paramètres_. La section _Informations_ contenait des informations qui se trouvent maintenant dans ce document. La section _Paramètres_ et les niveaux 2 et 3 étaient vides, tandis que le niveau 1 contenait seulement la pelouse du stade.
 
 Gino a continué à développer une deuxième version pendant sept semaines. Elle contenait une première version du niveau 1, des sections _Paramètres_ et _Informations_, du stade, du menu avec les boutons en cercles olympiques, et de l'écran de chargement.
 
@@ -88,7 +88,7 @@ Le choix des disciplines pour chaque niveau s'est fait en fonction des mécaniqu
 ## Présentation de l'équipe
 
 ### Qui sommes-nous ?
-Nous sommes trois étudiants de Polytech Nice Sophia, actuellement en deuxième année du cycle préparatoire de l'école (Peip2). Nous avons décidé de participer à ce concours afin d'approfondir nos connaissances en programmation. Ce projet nous a permis de découvrir de nombreux outils et technologies, tels que Blender, Gimp, Mixamo, CGTrader, Davinci Resolve, mais surtout Babylon.js.
+Nous sommes trois étudiants de Polytech Nice Sophia, actuellement en deuxième année du cycle préparatoire de l'école (Peip2). Nous avons décidé de participer à ce concours afin d'appliquer nos connaissances en programmation et d'en acquérir de nouvelles. Ce projet nous a permis de découvrir de nombreux outils et technologies tels que Blender, Gimp, Mixamo, CGTrader, Davinci Resolve, mais surtout Babylon.js.
 
 ### Contacts
 - Amy Joseph :
