@@ -76,7 +76,7 @@ Durant la partie, le score est affiché en bas de l'écran, avec les touches ass
 > Pour ajuster la qualité d'affichage, vous pouvez utiliser le zoom de votre fenêtre de navigateur (CTRL + molette de la souris).
 
 > [!NOTE]
-> Le score maximum possible à 1 joueur est 4 fois 20. Essayez de battre le meilleur score de notre team : 16 19 16 19 ! (Vous jouez les 4 joueurs à la fois).
+> Le score maximum possible à 1 joueur est 4 fois 20. Essayez de battre le meilleur score de notre team : 19 19 17 17 ! (Vous jouez les 4 joueurs à la fois).
 
 ### Niveau 2
 Il faut lancer le javelot le plus loin possible chacun son tour.
