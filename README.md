@@ -23,7 +23,7 @@
 
 ## Description de OUISPORT
 **OUISPORT** contient 4 mini-jeux de 1 à 4 joueurs chacun pour soi. Chaque niveau contient une discipline qui est ou a été présente aux jeux olympiques.
-![image](https://github.com/gamesonweb/gow-olympic-edition-ouisport/assets/85039742/030d5fca-e80f-43ce-9b4c-96d331a37c1a)
+![image](https://github.com/gamesonweb/gow-olympic-edition-ouisport/assets/85039742/4d3e3d95-599f-44c0-ac42-2e8a3deb7b10)
 > [!NOTE]
 > [Description détaillée du jeu](https://github.com/gamesonweb/gow-olympic-edition-ouisport/blob/main/Documentation.md#description-d%C3%A9taill%C3%A9e-du-jeu-).
 
