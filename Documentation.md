@@ -20,7 +20,8 @@
 ## Description détaillée du jeu :
 
 ### Menu 
-![image](https://github.com/gamesonweb/gow-olympic-edition-ouisport/assets/85039742/030d5fca-e80f-43ce-9b4c-96d331a37c1a)
+![image](https://github.com/gamesonweb/gow-olympic-edition-ouisport/assets/85039742/4d3e3d95-599f-44c0-ac42-2e8a3deb7b10)
+
 Le menu comprend les cercles olympiques correspondant aux niveaux 1 à 4, ainsi qu'aux paramètres. En survolant un cercle de niveau avec la souris, on peut connaître le nombre de joueurs requis. Il suffit de cliquer sur un cercle pour accéder au niveau ou aux paramètres :
 ![image](https://github.com/gamesonweb/gow-olympic-edition-ouisport/assets/85039742/d1edc201-cf3b-459c-8eb3-74f2f8f6d18d)
 
