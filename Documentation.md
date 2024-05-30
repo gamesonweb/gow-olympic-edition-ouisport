@@ -26,6 +26,8 @@ Le menu comprend les cercles olympiques correspondant aux niveaux 1 à 4, ainsi 
 ![image](https://github.com/gamesonweb/gow-olympic-edition-ouisport/assets/85039742/d1edc201-cf3b-459c-8eb3-74f2f8f6d18d)
 
 Le menu contient aussi des astuces en bas de l'écran, avec le lien de ce document en cas de besoin d'aide.
+![image](https://github.com/gamesonweb/gow-olympic-edition-ouisport/assets/85039742/84095a28-4208-4685-9038-d3da1f8ea118)
+
 
 ### General
 Les règles sont affichées au début de chaque niveau et entre chaque tour. Appuyez sur la touche espace pour commencer ou continuer la partie. Il y a un décompte avant chaque début de niveau ou de tour.
