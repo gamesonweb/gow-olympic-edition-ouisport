@@ -77,9 +77,9 @@ L'idée d'origine, _Rats in Paris_, était de faire un FPS (First Person Shooter
 Finalement, après avoir discuté avec des membres de l'organisation du concours, nous avons décidé de créer **OUISPORT** afin de ne pas trop nous éloigner du thème demandé. Le nom de ce jeu nous est venu naturellement.
 
 ### Les versions du jeu au cours du temps
-La première version du jeu a vu le jour au début du mois de mars 2024. Réalisée par Gino ([Présentation de l'équipe](https://github.com/gamesonweb/gow-olympic-edition-ouisport/blob/main/README.md#pr%C3%A9sentation-de-l%C3%A9quipe)), cette version contenait seulement un menu avec trois niveaux, une section  _Informations_ et une section _Paramètres_. La section _Informations_ contenait des informations qui se trouvent maintenant dans ce document README. La section _Paramètres_ et les niveaux 2 et 3 étaient vides, tandis que le niveau 1 contenait seulement la pelouse du stade.
+La première version du jeu a vu le jour début avril 2024. Réalisée par Gino ([Présentation de l'équipe](https://github.com/gamesonweb/gow-olympic-edition-ouisport/blob/main/README.md#pr%C3%A9sentation-de-l%C3%A9quipe)), cette version contenait seulement un menu avec trois niveaux, une section  _Informations_ et une section _Paramètres_. La section _Informations_ contenait des informations qui se trouvent maintenant dans ce document README. La section _Paramètres_ et les niveaux 2 et 3 étaient vides, tandis que le niveau 1 contenait seulement la pelouse du stade.
 
-Gino a continué à développer une deuxième version pendant sept semaines. Elle contenait une première version du niveau 1, des sections _Paramètres_ et _Informations_, du stade, du menu avec les boutons en cercles olympiques, et de l'écran de chargement.
+Gino a continué à développer une deuxième version pendant trois semaines. Elle contenait une première version du niveau 1, des sections _Paramètres_ et _Informations_, du stade, du menu avec les boutons en cercles olympiques, et de l'écran de chargement.
 
 Pendant les vacances de Pâques, Amy et Alexandre ont récupéré la dernière version pour commencer à développer le niveau 3, tandis que Gino a terminé une première version du niveau 2 et de la foule. À la fin de ces vacances, ayant un mois restant pour développer le projet, nous avons décidé de créer un niveau 4 en supprimant la section _Informations_.
 
