@@ -29,6 +29,8 @@
 
 > [!CAUTION]
 > Le jeu ne fonctionne pas sur le navigateur Opera GX.
+>
+> La foule utilise les ressources graphiques de votre appareil. Réduisez la foule dans les paramètres si vous avez des bugs.
 
 > [!TIP]
 > Dans **OUISPORT**, quatre joueurs peuvent s'affronter dans un tournoi où les deux premiers niveaux servent d'étapes éliminatoires. Le niveau 3 correspond à la finale entre les deux derniers joueurs.
