@@ -133,7 +133,7 @@ S'il y a égalité, celui qui à été le plus rapide l'emporte :
 > Le score maximum possible à 1 joueur est 2 fois 25. Essayez de battre le meilleur temps de notre team (en faisant 2 fois 25) : 1,78s et 2,26s ! (Vous jouez seulement le tireur).
 
 ### Niveau 4
-nivo 4 blabla
+À faire
 
 ### Paramètres
 ![image](https://github.com/gamesonweb/gow-olympic-edition-ouisport/assets/85039742/842b308f-72b7-4447-88b9-1031970b1c88)
