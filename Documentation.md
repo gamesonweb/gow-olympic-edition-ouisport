@@ -27,6 +27,7 @@ Le menu comprend les cercles olympiques correspondant aux niveaux 1 à 4, ainsi 
 ### General
 Les règles sont affichées au début de chaque niveau et entre chaque tour. Appuyez sur la touche espace pour commencer ou continuer la partie. Il y a un décompte avant chaque début de niveau ou de tour.
 Deux boutons sont toujours présent en haut à gauche de l'écran : le bouton _Menu_ pour retourner au menu et le bouton _🎵_ pour activer/désactiver la musique.
+
 ![image](https://github.com/gamesonweb/gow-olympic-edition-ouisport/assets/85039742/e7cb8b52-be62-4b6d-9f8a-8a69fcb20f9e)
 
 Il y a un bouton pour retourner au menu à la fin de chaque niveau :
