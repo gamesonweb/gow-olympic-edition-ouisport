@@ -30,7 +30,7 @@ Le menu contient aussi des astuces en bas de l'écran, avec le lien de ce docume
 
 
 ## General
-[Vidéos de démonstrations](https://www.youtube.com/playlist?list=PLZdl2luFG2HaPQPemqGdx8-uSNhNyVGFC)
+**[Vidéos de démonstrations](https://www.youtube.com/playlist?list=PLZdl2luFG2HaPQPemqGdx8-uSNhNyVGFC)**
 
 Les règles sont affichées au début de chaque niveau et entre chaque tour. Appuyez sur la touche espace pour commencer ou continuer la partie. Il y a un décompte avant chaque début de niveau ou de tour.
 Deux boutons sont toujours présent en haut à gauche de l'écran : le bouton _Menu_ pour retourner au menu et le bouton _🎵_ pour activer/désactiver la musique.
