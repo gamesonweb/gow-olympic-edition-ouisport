@@ -15,6 +15,7 @@
   - [Modèles 3D](https://github.com/gamesonweb/gow-olympic-edition-ouisport/blob/main/Documentation.md#mod%C3%A8les-3d-)
   - [Animations des modèles 3D](https://github.com/gamesonweb/gow-olympic-edition-ouisport/blob/main/Documentation.md#animation-des-mod%C3%A8les-3d-)
   - [Sons et musiques](https://github.com/gamesonweb/gow-olympic-edition-ouisport/blob/main/Documentation.md#sons-et-musiques-)
+  - [Images et textures](https://github.com/gamesonweb/gow-olympic-edition-ouisport/blob/main/Documentation.md#images-et-textures-)
 
 
 # Description détaillée du jeu
@@ -175,6 +176,10 @@ Nous avons fait nous mêmes les haies du niveau 1 sur Blender.
 - [Google Images](https://images.google.com/) (Pour les gifs du menu)
 
 Nous avons fait nous mêmes les écrans de pubs dans le stade et les sièges du stade avec Gimp.
+
+
+
+# [Retourner au sommaire](https://github.com/gamesonweb/gow-olympic-edition-ouisport/blob/main/Documentation.md#sommaire)
 
 
 
