@@ -9,19 +9,19 @@
 
 # SOMMAIRE
 - [Description de **OUISPORT**](https://github.com/gamesonweb/gow-olympic-edition-ouisport?tab=readme-ov-file#description-de-ouisport)
-  - [Niveau 1](https://github.com/gamesonweb/gow-olympic-edition-ouisport?tab=readme-ov-file#niveau-1--la-course-de-haies)
-  - [Niveau 2](https://github.com/gamesonweb/gow-olympic-edition-ouisport?tab=readme-ov-file#niveau-2--le-lancer-de-javelot)
-  - [Niveau 3](https://github.com/gamesonweb/gow-olympic-edition-ouisport?tab=readme-ov-file#niveau-3--le-tir-%C3%A0-larc)
-  - [Niveau 4](https://github.com/gamesonweb/gow-olympic-edition-ouisport?tab=readme-ov-file#niveau-4--le-football)
+  - [Niveau 1](https://github.com/gamesonweb/gow-olympic-edition-ouisport?tab=readme-ov-file#niveau-1--la-course-de-haies-)
+  - [Niveau 2](https://github.com/gamesonweb/gow-olympic-edition-ouisport?tab=readme-ov-file#niveau-2--le-lancer-de-javelot-)
+  - [Niveau 3](https://github.com/gamesonweb/gow-olympic-edition-ouisport?tab=readme-ov-file#niveau-3--le-tir-%C3%A0-larc-)
+  - [Niveau 4](https://github.com/gamesonweb/gow-olympic-edition-ouisport?tab=readme-ov-file#niveau-4--le-football-)
 - [Personnes impliquées dans le projet](https://github.com/gamesonweb/gow-olympic-edition-ouisport?tab=readme-ov-file#personnes-impliqu%C3%A9es-dans-le-projet)
 - [L'histoire du jeu](https://github.com/gamesonweb/gow-olympic-edition-ouisport?tab=readme-ov-file#lhistoire-du-jeu)
-  - [Games On Web 2024](https://github.com/gamesonweb/gow-olympic-edition-ouisport?tab=readme-ov-file#games-on-web-2024)
-  - [Pourquoi OUISPORT ?](https://github.com/gamesonweb/gow-olympic-edition-ouisport?tab=readme-ov-file#pourquoi-ouisport-)
-  - [Les versions du jeu au cours du temps](https://github.com/gamesonweb/gow-olympic-edition-ouisport?tab=readme-ov-file#les-versions-du-jeu-au-cours-du-temps)
-  - [Le choix des niveaux](https://github.com/gamesonweb/gow-olympic-edition-ouisport?tab=readme-ov-file#le-choix-des-niveaux)
+  - [Games On Web 2024](https://github.com/gamesonweb/gow-olympic-edition-ouisport?tab=readme-ov-file#games-on-web-2024-)
+  - [Pourquoi OUISPORT ?](https://github.com/gamesonweb/gow-olympic-edition-ouisport?tab=readme-ov-file#pourquoi-ouisport--)
+  - [Les versions du jeu au cours du temps](https://github.com/gamesonweb/gow-olympic-edition-ouisport?tab=readme-ov-file#les-versions-du-jeu-au-cours-du-temps-)
+  - [Le choix des niveaux](https://github.com/gamesonweb/gow-olympic-edition-ouisport?tab=readme-ov-file#le-choix-des-niveaux-)
 - [Présentation de l'équipe](https://github.com/gamesonweb/gow-olympic-edition-ouisport?tab=readme-ov-file#pr%C3%A9sentation-de-l%C3%A9quipe)
-  - [Qui sommes-nous ?](https://github.com/gamesonweb/gow-olympic-edition-ouisport?tab=readme-ov-file#qui-sommes-nous-)
-  - [Contacts](https://github.com/gamesonweb/gow-olympic-edition-ouisport?tab=readme-ov-file#contacts)
+  - [Qui sommes-nous ?](https://github.com/gamesonweb/gow-olympic-edition-ouisport?tab=readme-ov-file#qui-sommes-nous--)
+  - [Contacts](https://github.com/gamesonweb/gow-olympic-edition-ouisport?tab=readme-ov-file#contacts-)
 
 # Description de OUISPORT
 **OUISPORT** contient 4 mini-jeux de 1 à 4 joueurs chacun pour soi. Chaque niveau contient une discipline qui est ou a été présente aux jeux olympiques.
