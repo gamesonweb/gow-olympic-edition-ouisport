@@ -133,7 +133,12 @@ S'il y a égalité, celui qui à été le plus rapide l'emporte :
 > Le score maximum possible à 1 joueur est 2 fois 25. Essayez de battre le meilleur temps de notre team (en faisant 2 fois 25) : 1,78s et 2,26s ! (Vous jouez seulement le tireur).
 
 ### Niveau 4
-À faire
+Il faut faire la passe aux joueurs de votre équipe en rouge pour arriver jusqu'au but adverse et marquer un goal.
+Appuyez sur q, s ou d pour faire la passe au joueur à gauche, au milieu ou à droite.
+Vous perdez si vous êtes trop lent ou si vous faites la passe à un joueur adverse.
+
+> [!CAUTION]
+> Désactivez les majuscules sur votre clavier.
 
 ### Paramètres
 ![image](https://github.com/gamesonweb/gow-olympic-edition-ouisport/assets/85039742/842b308f-72b7-4447-88b9-1031970b1c88)
@@ -144,7 +149,7 @@ Vous pouvez ajustez le volume et la quantité de spectateur dans le stade.
 > La foule utilise les ressources de votre appareil pour s'afficher sans baisser la fluidité. Ajustez la foule en fonction des performances de votre appareil.
 
 ### Écran de chargement
-L'écran de chargement contient une animation avec les cercles olympiques. Le temps de chargement varie selon le niveau et la qualité de votre connexion.
+L'écran de chargement contient une animation avec les cercles olympiques. Le temps de chargement varie selon le niveau choisi et la qualité de votre connexion.
 ![image](https://github.com/gamesonweb/gow-olympic-edition-ouisport/assets/85039742/854a4a49-d348-48a0-9b54-d831ae2505fd)
 
 ## Sources :
