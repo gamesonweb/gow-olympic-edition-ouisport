@@ -1,7 +1,7 @@
 ![title](https://github.com/gamesonweb/gow-olympic-edition-ouisport/assets/85039742/b5f87b09-0b1e-4e49-8009-ff5cc9500ac0)
 # DÉFIEZ VOS AMIS AUX JEUX OLYMPIQUES !
 # DOCUMENTATION
-# SOMMAIRE
+# Sommaire :
 - [Description détaillée du jeu](https://github.com/gamesonweb/gow-olympic-edition-ouisport/blob/main/Documentation.md#description-d%C3%A9taill%C3%A9e-du-jeu-)
   - [Menu](https://github.com/gamesonweb/gow-olympic-edition-ouisport/blob/main/Documentation.md#menu)
   - [General](https://github.com/gamesonweb/gow-olympic-edition-ouisport/blob/main/Documentation.md#general)
@@ -17,7 +17,7 @@
   - [Sons et musiques](https://github.com/gamesonweb/gow-olympic-edition-ouisport/blob/main/Documentation.md#sons-et-musiques-)
 
 
-# Description détaillée du jeu :
+# Description détaillée du jeu
 
 ## Menu 
 ![image](https://github.com/gamesonweb/gow-olympic-edition-ouisport/assets/85039742/4d3e3d95-599f-44c0-ac42-2e8a3deb7b10)
