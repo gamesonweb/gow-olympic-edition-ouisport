@@ -2,6 +2,7 @@
 # DÉFIEZ VOS AMIS AUX JEUX OLYMPIQUES !
 - ## [Jouer au jeu](https://ginosprod.github.io/OUISPORT/)
 - ## [Vidéo de présentation](https://youtu.be/Dg2bNl0iQno)
+- ## [Vidéos de démonstrations](https://www.youtube.com/playlist?list=PLZdl2luFG2HaPQPemqGdx8-uSNhNyVGFC)
 - ## [Trailer](https://youtu.be/jn4E3buxH28)
 - ## [Documentation](https://github.com/gamesonweb/gow-olympic-edition-ouisport/blob/main/Documentation.md)
 - ## [Code source](https://github.com/Ginosprod/OUISPORT)
