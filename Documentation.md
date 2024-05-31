@@ -168,6 +168,13 @@ Nous avons fait nous mêmes les haies du niveau 1 sur Blender.
 
 ## Sons et musiques :
 - [Youtube](https://www.youtube.com/) 
-- [La musique du jeu](https://youtu.be/EBmBRq9ViyU?si=SyOblTXCTYDjPfGj) 
+- [La musique du jeu](https://youtu.be/EBmBRq9ViyU?si=SyOblTXCTYDjPfGj)
+
+## Images et textures :
+- [textures.com](https://www.textures.com/) (Pour la plupart des textures qu'on utilise)
+- [Google Images](https://images.google.com/) (Pour les gifs du menu)
+
+Nous avons fait nous mêmes les écrans de pubs dans le stade et les sièges du stade avec Gimp.
+
 
 
