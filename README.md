@@ -22,6 +22,7 @@
 - [Présentation de l'équipe](https://github.com/gamesonweb/gow-olympic-edition-ouisport?tab=readme-ov-file#pr%C3%A9sentation-de-l%C3%A9quipe)
   - [Qui sommes-nous ?](https://github.com/gamesonweb/gow-olympic-edition-ouisport?tab=readme-ov-file#qui-sommes-nous--)
   - [Contacts](https://github.com/gamesonweb/gow-olympic-edition-ouisport?tab=readme-ov-file#contacts-)
+  - [Remerciements](https://github.com/gamesonweb/gow-olympic-edition-ouisport?tab=readme-ov-file#remerciements-)
 
 # Description de OUISPORT
 **OUISPORT** contient 4 mini-jeux de 1 à 4 joueurs chacun pour soi. Chaque niveau contient une discipline qui est ou a été présente aux jeux olympiques.
