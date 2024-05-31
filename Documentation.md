@@ -1,7 +1,7 @@
-# OUISPORT : DOCUMENTATION
-## DÉFIEZ VOS AMIS AUX JEUX OLYMPIQUES !
-
-## **SOMMAIRE**
+![title](https://github.com/gamesonweb/gow-olympic-edition-ouisport/assets/85039742/b5f87b09-0b1e-4e49-8009-ff5cc9500ac0)
+# DÉFIEZ VOS AMIS AUX JEUX OLYMPIQUES !
+# DOCUMENTATION
+# SOMMAIRE
 - [Description détaillée du jeu](https://github.com/gamesonweb/gow-olympic-edition-ouisport/blob/main/Documentation.md#description-d%C3%A9taill%C3%A9e-du-jeu-)
   - [Menu](https://github.com/gamesonweb/gow-olympic-edition-ouisport/blob/main/Documentation.md#menu)
   - [General](https://github.com/gamesonweb/gow-olympic-edition-ouisport/blob/main/Documentation.md#general)
@@ -17,9 +17,9 @@
   - [Sons et musiques](https://github.com/gamesonweb/gow-olympic-edition-ouisport/blob/main/Documentation.md#sons-et-musiques-)
 
 
-## Description détaillée du jeu :
+# Description détaillée du jeu :
 
-### Menu 
+## Menu 
 ![image](https://github.com/gamesonweb/gow-olympic-edition-ouisport/assets/85039742/4d3e3d95-599f-44c0-ac42-2e8a3deb7b10)
 
 Le menu comprend les cercles olympiques correspondant aux niveaux 1 à 4, ainsi qu'aux paramètres. En survolant un cercle de niveau avec la souris, on peut connaître le nombre de joueurs requis. Il suffit de cliquer sur un cercle pour accéder au niveau ou aux paramètres :
@@ -29,7 +29,7 @@ Le menu contient aussi des astuces en bas de l'écran, avec le lien de ce docume
 ![image](https://github.com/gamesonweb/gow-olympic-edition-ouisport/assets/85039742/84095a28-4208-4685-9038-d3da1f8ea118)
 
 
-### General
+## General
 Les règles sont affichées au début de chaque niveau et entre chaque tour. Appuyez sur la touche espace pour commencer ou continuer la partie. Il y a un décompte avant chaque début de niveau ou de tour.
 Deux boutons sont toujours présent en haut à gauche de l'écran : le bouton _Menu_ pour retourner au menu et le bouton _🎵_ pour activer/désactiver la musique.
 
@@ -56,7 +56,7 @@ Il y a un bouton pour retourner au menu à la fin de chaque niveau :
 >
 > Appuyez sur Échap pour afficher le curseur de la souris.
 
-### Niveau 1
+## Niveau 1
 Il faut atteindre la ligne d'arrivée en touchant aucune des 20 haies.
 ![Capture d’écran (6)](https://github.com/gamesonweb/gow-olympic-edition-ouisport/assets/85039742/dd50ae7d-603a-4c1c-b13b-d13771b1ec08)
 
@@ -82,7 +82,7 @@ Durant la partie, le score est affiché en bas de l'écran, avec les touches ass
 > [!NOTE]
 > Le score maximum possible à 1 joueur est 4 fois 20. Essayez de battre le meilleur score de notre team : 19 19 17 17 ! (Vous jouez les 4 joueurs à la fois).
 
-### Niveau 2
+## Niveau 2
 Il faut lancer le javelot le plus loin possible chacun son tour.
 ![image](https://github.com/gamesonweb/gow-olympic-edition-ouisport/assets/85039742/783470df-f209-4f7e-9479-152aa708bc40)
 
@@ -99,7 +99,7 @@ Les scores sont affichés à la fin de la partie et entre chaque tour :
 > [!NOTE]
 > Le score maximum possible est 140. Essayez de battre le meilleur score de notre team : 133 !
 
-### Niveau 3
+## Niveau 3
 Il y a deux joueurs : un tireur et un opérateur. Le tireur gagne des points en touchant la cible et l'opérateur doit déplacer la cible pour éviter les flèches du tireur.
 ![image](https://github.com/gamesonweb/gow-olympic-edition-ouisport/assets/85039742/d83bd048-0dfa-479a-be78-ada7316bc5df)
 
@@ -132,7 +132,7 @@ S'il y a égalité, celui qui à été le plus rapide l'emporte :
 > [!NOTE]
 > Le score maximum possible à 1 joueur est 2 fois 25. Essayez de battre le meilleur temps de notre team (en faisant 2 fois 25) : 1,78s et 2,26s ! (Vous jouez seulement le tireur).
 
-### Niveau 4
+## Niveau 4
 Il faut faire la passe aux joueurs de votre équipe en rouge pour arriver jusqu'au but adverse et marquer un goal.
 Appuyez sur q, s ou d pour faire la passe au joueur à gauche, au milieu ou à droite.
 Vous perdez si vous êtes trop lent ou si vous faites la passe à un joueur adverse.
@@ -140,7 +140,7 @@ Vous perdez si vous êtes trop lent ou si vous faites la passe à un joueur adve
 > [!CAUTION]
 > Désactivez les majuscules sur votre clavier.
 
-### Paramètres
+## Paramètres
 ![image](https://github.com/gamesonweb/gow-olympic-edition-ouisport/assets/85039742/842b308f-72b7-4447-88b9-1031970b1c88)
 
 Vous pouvez ajustez le volume et la quantité de spectateur dans le stade.
@@ -148,21 +148,21 @@ Vous pouvez ajustez le volume et la quantité de spectateur dans le stade.
 > [!CAUTION]
 > La foule utilise les ressources de votre appareil pour s'afficher sans baisser la fluidité. Ajustez la foule en fonction des performances de votre appareil.
 
-### Écran de chargement
+## Écran de chargement
 L'écran de chargement contient une animation avec les cercles olympiques. Le temps de chargement varie selon le niveau choisi et la qualité de votre connexion.
 ![image](https://github.com/gamesonweb/gow-olympic-edition-ouisport/assets/85039742/854a4a49-d348-48a0-9b54-d831ae2505fd)
 
-## Sources :
-### Modèles 3D :
+# Sources :
+## Modèles 3D :
 - [Mixamo](https://www.mixamo.com/) (Les joueurs)
 - [CGTrader](https://www.cgtrader.com/) (Les décorations et les spectateurs)
 
 Nous avons fait les haies du niveau 1 sur Blender.
 
-### Animation des modèles 3D :
+## Animation des modèles 3D :
 - [Mixamo](https://www.mixamo.com/)
 
-### Sons et musiques :
+## Sons et musiques :
 - [Youtube](https://www.youtube.com/) 
 - [La musique du jeu](https://youtu.be/EBmBRq9ViyU?si=SyOblTXCTYDjPfGj) 
 
