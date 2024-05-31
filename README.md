@@ -117,3 +117,5 @@ Nous sommes trois étudiants de Polytech Nice Sophia, actuellement en deuxième 
 - Fatima Diarra
 - Léa Duval
 - Anonyme
+
+# [Retourner au sommaire](https://github.com/gamesonweb/gow-olympic-edition-ouisport?tab=readme-ov-file#sommaire)
