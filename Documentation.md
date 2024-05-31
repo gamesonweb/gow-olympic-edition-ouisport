@@ -1,6 +1,6 @@
 ![title](https://github.com/gamesonweb/gow-olympic-edition-ouisport/assets/85039742/b5f87b09-0b1e-4e49-8009-ff5cc9500ac0)
 # DÉFIEZ VOS AMIS AUX JEUX OLYMPIQUES !
-# DOCUMENTATION
+# DOCUMENTATION 
 # Sommaire :
 - [Description détaillée du jeu](https://github.com/gamesonweb/gow-olympic-edition-ouisport/blob/main/Documentation.md#description-d%C3%A9taill%C3%A9e-du-jeu-)
   - [Menu](https://github.com/gamesonweb/gow-olympic-edition-ouisport/blob/main/Documentation.md#menu)
@@ -58,7 +58,7 @@ Il y a un bouton pour retourner au menu à la fin de chaque niveau :
 >
 > Appuyez sur Échap pour afficher le curseur de la souris.
 
-## Niveau 1
+## Niveau 1 
 Il faut atteindre la ligne d'arrivée en touchant aucune des 20 haies.
 ![Capture d’écran (6)](https://github.com/gamesonweb/gow-olympic-edition-ouisport/assets/85039742/dd50ae7d-603a-4c1c-b13b-d13771b1ec08)
 
@@ -84,7 +84,7 @@ Durant la partie, le score est affiché en bas de l'écran, avec les touches ass
 > [!NOTE]
 > Le score maximum possible à 1 joueur est 4 fois 20. Essayez de battre le meilleur score de notre team : 19 19 17 17 ! (Vous jouez les 4 joueurs à la fois).
 
-## Niveau 2
+## Niveau 2 
 Il faut lancer le javelot le plus loin possible chacun son tour.
 ![image](https://github.com/gamesonweb/gow-olympic-edition-ouisport/assets/85039742/783470df-f209-4f7e-9479-152aa708bc40)
 
@@ -161,7 +161,7 @@ L'écran de chargement contient une animation avec les cercles olympiques. Le te
 - [Mixamo](https://www.mixamo.com/) (Les joueurs)
 - [CGTrader](https://www.cgtrader.com/) (Les décorations et les spectateurs)
 
-Nous avons fait les haies du niveau 1 sur Blender.
+Nous avons fait nous mêmes les haies du niveau 1 sur Blender.
 
 ## Animation des modèles 3D :
 - [Mixamo](https://www.mixamo.com/)
