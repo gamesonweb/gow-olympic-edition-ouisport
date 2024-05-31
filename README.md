@@ -1,7 +1,7 @@
 ![title](https://github.com/gamesonweb/gow-olympic-edition-ouisport/assets/85039742/b5f87b09-0b1e-4e49-8009-ff5cc9500ac0)
 # DÉFIEZ VOS AMIS AUX JEUX OLYMPIQUES !
 - ## [Jouer au jeu](https://ginosprod.github.io/OUISPORT/)
-- ## [Présentation](https://youtu.be/Dg2bNl0iQno)
+- ## [Vidéo de présentation](https://youtu.be/Dg2bNl0iQno)
 - ## [Trailer](https://youtu.be/jn4E3buxH28)
 - ## [Documentation](https://github.com/gamesonweb/gow-olympic-edition-ouisport/blob/main/Documentation.md)
 - ## [Code source](https://github.com/Ginosprod/OUISPORT)
