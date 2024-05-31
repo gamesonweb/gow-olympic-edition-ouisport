@@ -103,9 +103,9 @@ Nous sommes trois étudiants de Polytech Nice Sophia, actuellement en deuxième 
 [Vidéo de présentation](https://youtu.be/Dg2bNl0iQno)
 
 ### Contacts
-- Amy Joseph :
+- Amy Joseph : amy.joseph@etu.univ-cotedazur.fr
 - Gino Martelli : gino.martelli-rakotonindrainy@etu.univ-cotedazur.fr
-- Alexandre Krausener :
+- Alexandre Krausener : alexandre.krausener@etu.univ-cotedazur.fr
 
 ### Remerciements
 - Fatima Diarra
