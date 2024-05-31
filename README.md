@@ -57,7 +57,7 @@ Ce niveau se joue à 2 joueurs. Le but de ce niveau est de marquer le plus de po
 ![image](https://github.com/gamesonweb/gow-olympic-edition-ouisport/assets/85039742/6523957b-f563-4252-b6ea-54c82d113b33)
 
 ## Niveau 4 : Le football.
-Ce dernier niveau se joue en solo. Le but de ce niveau est de marquer un but en effectuant des passes rapides aux bons joueurs. 
+Ce dernier niveau se joue en solo. Le but de ce niveau est de marquer un but avant la fin du match en effectuant des passes aux bons joueurs.
 
 
 # Personnes impliquées dans le projet
