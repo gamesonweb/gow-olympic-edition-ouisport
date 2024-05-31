@@ -1,11 +1,11 @@
 ![title](https://github.com/gamesonweb/gow-olympic-edition-ouisport/assets/85039742/b5f87b09-0b1e-4e49-8009-ff5cc9500ac0)
 # DÉFIEZ VOS AMIS AUX JEUX OLYMPIQUES !
-- ## [Jouer au jeu](https://ginosprod.github.io/OUISPORT/)
-- ## [Vidéo de présentation](https://youtu.be/Dg2bNl0iQno)
-- ## [Vidéos de démonstrations](https://www.youtube.com/playlist?list=PLZdl2luFG2HaPQPemqGdx8-uSNhNyVGFC)
-- ## [Trailer](https://youtu.be/jn4E3buxH28)
-- ## [Documentation](https://github.com/gamesonweb/gow-olympic-edition-ouisport/blob/main/Documentation.md)
-- ## [Code source](https://github.com/Ginosprod/OUISPORT)
+- ## [Jouer au jeu 🎮](https://ginosprod.github.io/OUISPORT/)
+- ## [Vidéo de présentation 👨‍👩‍👧‍👦](https://youtu.be/Dg2bNl0iQno)
+- ## [Vidéos de démonstrations 🔍](https://www.youtube.com/playlist?list=PLZdl2luFG2HaPQPemqGdx8-uSNhNyVGFC)
+- ## [Trailer 🎞️](https://youtu.be/jn4E3buxH28)
+- ## [Documentation 📘](https://github.com/gamesonweb/gow-olympic-edition-ouisport/blob/main/Documentation.md)
+- ## [Code source 📁](https://github.com/Ginosprod/OUISPORT)
 
 # SOMMAIRE
 - [Description de **OUISPORT**](https://github.com/gamesonweb/gow-olympic-edition-ouisport?tab=readme-ov-file#description-de-ouisport)
@@ -47,19 +47,19 @@
 >
 > Appuyez sur Échap pour afficher le curseur de la souris.
 
-## Niveau 1 : La course de haies.
+## Niveau 1 : La course de haies 🏃
 Ce premier niveau se joue à 4 joueurs. Le but de ce niveau est d'atteindre la ligne d'arrivée en faisant tomber le moins de haies possible : il faut sauter au bon moment.
 ![Capture d’écran (6)](https://github.com/gamesonweb/gow-olympic-edition-ouisport/assets/85039742/c6eda7ac-fbf4-4af2-9388-7aeb801f2d05)
 
-## Niveau 2 : Le lancer de javelot.
+## Niveau 2 : Le lancer de javelot 💪
 Ce niveau se joue à 3 joueurs. Le but de ce niveau est de lancer le javelot le plus loin possible : il faut appuyer rapidement sur les touches qui s'affichent à l'écran.
 ![image](https://github.com/gamesonweb/gow-olympic-edition-ouisport/assets/85039742/f1d0e8e5-597a-4b5a-bc96-00eb700d2cea)
 
-## Niveau 3 : Le tir à l'arc.
+## Niveau 3 : Le tir à l'arc 🏹
 Ce niveau se joue à 2 joueurs. Le but de ce niveau est de marquer le plus de points en touchant la cible que l'autre joueur peut déplacer.
 ![image](https://github.com/gamesonweb/gow-olympic-edition-ouisport/assets/85039742/6523957b-f563-4252-b6ea-54c82d113b33)
 
-## Niveau 4 : Le football.
+## Niveau 4 : Le football ⚽
 Ce dernier niveau se joue en solo. Le but de ce niveau est de marquer un but avant la fin du match en effectuant des passes aux bons joueurs.
 ![Capture d’écran (14)](https://github.com/gamesonweb/gow-olympic-edition-ouisport/assets/85039742/49e9fe1e-44d6-483b-aa4b-36be86d25ae6)
 
@@ -76,16 +76,16 @@ Ce dernier niveau se joue en solo. Le but de ce niveau est de marquer un but ava
 
 # L'histoire du jeu
 
-## Games On Web 2024
+## Games On Web 2024 🏅
 Sponsorisé par CGI, Games On Web est un concours de programmation lancé par l'IUT Informatique, Polytech Nice Sophia et l'EUR DS4H (MIAGE et Licence/Master informatique). Ce concours met les équipes participantes au défi de développer un jeu vidéo 3D fonctionnant sur un navigateur Web. Les projets reposent sur les technologies web (JavaScript/HTML/CSS) et utilisent la bibliothèque open source BabylonJS pour la 3D.
 Le thème du Games on Web 2024 est _Olympic Edition_.
 
-## Pourquoi OUISPORT ?
+## Pourquoi OUISPORT ? 🤔
 L'idée d'origine, _Rats in Paris_, était de faire un FPS (First Person Shooter) se déroulant à Paris juste avant les Jeux Olympiques. Le but de Rats in Paris aurait été de nettoyer la ville des rats avant l'arrivée des touristes et des athlètes.
 
 Finalement, après avoir discuté avec des membres de l'organisation du concours, nous avons décidé de créer **OUISPORT** afin de ne pas trop nous éloigner du thème demandé. Le nom de ce jeu nous est venu naturellement.
 
-## Les versions du jeu au cours du temps
+## Les versions du jeu au cours du temps ⏳
 La première version du jeu a vu le jour début avril 2024. Réalisée par Gino ([Présentation de l'équipe](https://github.com/gamesonweb/gow-olympic-edition-ouisport/blob/main/README.md#pr%C3%A9sentation-de-l%C3%A9quipe)), cette version contenait seulement un menu avec trois niveaux, une section  _Informations_ et une section _Paramètres_. La section _Informations_ contenait des informations qui se trouvent maintenant dans ce document README. La section _Paramètres_ et les niveaux 2 et 3 étaient vides, tandis que le niveau 1 contenait seulement la pelouse du stade.
 
 Gino a continué à développer une deuxième version pendant trois semaines. Elle contenait une première version du niveau 1, des sections _Paramètres_ et _Informations_, du stade, du menu avec les boutons en cercles olympiques, et de l'écran de chargement.
@@ -96,22 +96,22 @@ Durant le mois de mai, Alexandre s'est occupé de finir le niveau 4 sur une vers
 
 Fin mai, la version final de OUISPORT est en ligne avec les 4 niveaux terminés, une nouvelle foule qui ne diminue pas la fluidité du jeu (fps) et des astuces dans le menu. Pour avoir cette version finale, il a notamment fallu ajouter le niveau 4, créé par Alexandre, à la version principale en ligne. Nous avons dû réduire le volume de certains fichiers afin de diminuer les temps de chargement et ajuster le style CSS du niveau 4 pour qu'il soit cohérent avec les autres niveaux.
 
-## Le choix des niveaux
+## Le choix des niveaux 💬
 Le choix des disciplines pour chaque niveau s'est fait en fonction des mécaniques de jeu. Nous voulions éviter d'utiliser deux fois la même mécanique. Ainsi, il faut avoir du rythme pour le niveau 1, des réflexes pour le niveau 2, de la précision pour le niveau 3, et de la rapidité de décision pour le niveau 4.
 
 # Présentation de l'équipe
 
-## Qui sommes-nous ?
+## Qui sommes-nous ? 🧑‍🎓
 Nous sommes trois étudiants de Polytech Nice Sophia, actuellement en deuxième année du cycle préparatoire de l'école (Peip2). Nous avons décidé de participer à ce concours afin d'appliquer nos connaissances en programmation et d'en acquérir de nouvelles. Ce projet nous a permis de découvrir de nombreux outils et technologies tels que Blender, Gimp, Mixamo, CGTrader, Davinci Resolve, mais surtout Babylon.js.
 
 [Vidéo de présentation](https://youtu.be/Dg2bNl0iQno)
 
-## Contacts
+## Contacts 📧
 - Amy Joseph : amy.joseph@etu.univ-cotedazur.fr
 - Gino Martelli : gino.martelli-rakotonindrainy@etu.univ-cotedazur.fr
 - Alexandre Krausener : alexandre.krausener@etu.univ-cotedazur.fr
 
-## Remerciements
+## Remerciements 💝
 - Fatima Diarra
 - Léa Duval
 - Anonyme
