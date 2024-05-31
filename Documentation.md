@@ -30,6 +30,8 @@ Le menu contient aussi des astuces en bas de l'écran, avec le lien de ce docume
 
 
 ## General
+[Vidéos de démonstrations](https://www.youtube.com/playlist?list=PLZdl2luFG2HaPQPemqGdx8-uSNhNyVGFC)
+
 Les règles sont affichées au début de chaque niveau et entre chaque tour. Appuyez sur la touche espace pour commencer ou continuer la partie. Il y a un décompte avant chaque début de niveau ou de tour.
 Deux boutons sont toujours présent en haut à gauche de l'écran : le bouton _Menu_ pour retourner au menu et le bouton _🎵_ pour activer/désactiver la musique.
 
@@ -134,6 +136,8 @@ S'il y a égalité, celui qui à été le plus rapide l'emporte :
 
 ## Niveau 4
 Il faut faire la passe aux joueurs de votre équipe en rouge pour arriver jusqu'au but adverse et marquer un goal.
+![Capture d’écran (14)](https://github.com/gamesonweb/gow-olympic-edition-ouisport/assets/85039742/49e9fe1e-44d6-483b-aa4b-36be86d25ae6)
+
 Appuyez sur q, s ou d pour faire la passe au joueur à gauche, au milieu ou à droite.
 Vous perdez si vous êtes trop lent ou si vous faites la passe à un joueur adverse.
 
